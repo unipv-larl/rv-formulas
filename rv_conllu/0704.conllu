@@ -1,0 +1,146 @@
+# text = ā me havaṃ nāsatyāśvinā gacchataṃ yuvam
+# sent_id = 591084
+1	ā	ā	ADV	_	_	6	advmod	_	LemmaId=213041|OccId=4739787|Unsandhied=ā|SyntaxAnnotation=silver|Ref=8.85
+2	me	mad	PRON	_	Case=Gen|Number=Sing	3	nmod	_	LemmaId=37879|OccId=4739705|Unsandhied=me|SyntaxAnnotation=silver|Ref=8.85
+3	havaṃ	hava	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	LemmaId=109423|OccId=4739706|Unsandhied=havam|SyntaxAnnotation=silver|Ref=8.85
+4-5	nāsatyāśvinā	_	_	_	_	_	_	_	_
+4	_	nāsatya	NOUN	_	Case=Voc|Gender=Masc|Number=Dual	6	vocative	_	LemmaId=169393|OccId=4739707|Unsandhied=nāsatyā|SyntaxAnnotation=silver|Ref=8.85
+5	_	aśvin	NOUN	_	Case=Voc|Gender=Masc|Number=Dual	6	vocative	_	LemmaId=60409|OccId=4739708|Unsandhied=aśvinā|SyntaxAnnotation=silver|Ref=8.85
+6	gacchataṃ	gam	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Dual	0	root	_	LemmaId=156214|OccId=4739709|Unsandhied=gacchatam|SyntaxAnnotation=silver|Ref=8.85
+7	yuvam	tvad	PRON	_	Case=Nom|Number=Dual	6	nsubj	_	LemmaId=37880|OccId=4739710|Unsandhied=yuvam|SyntaxAnnotation=silver|Ref=8.85
+
+# text = madhvaḥ somasya pītaye
+# sent_id = 591085
+1	madhvaḥ	madhu	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	LemmaId=35440|OccId=4739711|Unsandhied=madhvaḥ|SyntaxAnnotation=silver|Ref=8.85
+2	somasya	soma	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	obj	_	LemmaId=100106|OccId=4739712|Unsandhied=somasya|SyntaxAnnotation=silver|Ref=8.85
+3	pītaye	pā	VERB	_	VerbForm=Inf	0	root	_	LemmaId=157391|OccId=4739713|Unsandhied=pītaye|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.85
+
+# text = imam me stomam aśvinemam me śṛṇutaṃ havam
+# sent_id = 591086
+1	imam	idam	PRON	_	Case=Acc|Gender=Masc|Number=Sing	3	det	_	LemmaId=37876|OccId=4739714|Unsandhied=imam|SyntaxAnnotation=silver|Ref=8.85
+2	me	mad	PRON	_	Case=Gen|Number=Sing	3	nmod	_	LemmaId=37879|OccId=4739715|Unsandhied=me|SyntaxAnnotation=silver|Ref=8.85
+3	stomam	stoma	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	LemmaId=102445|OccId=4739716|Unsandhied=stomam|SyntaxAnnotation=silver|Ref=8.85
+4-5	aśvinemam	_	_	_	_	_	_	_	_
+4	_	aśvin	NOUN	_	Case=Voc|Gender=Masc|Number=Dual	7	vocative	_	LemmaId=60409|OccId=4739717|Unsandhied=aśvinā|SyntaxAnnotation=silver|Ref=8.85
+5	_	idam	PRON	_	Case=Acc|Gender=Masc|Number=Sing	8	det	_	LemmaId=37876|OccId=4739718|Unsandhied=imam|SyntaxAnnotation=silver|Ref=8.85
+6	me	mad	PRON	_	Case=Gen|Number=Sing	8	nmod	_	LemmaId=37879|OccId=4739719|Unsandhied=me|SyntaxAnnotation=silver|Ref=8.85
+7	śṛṇutaṃ	śru	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Dual	0	root	_	LemmaId=157409|OccId=4739720|Unsandhied=śṛṇutam|SyntaxAnnotation=silver|Ref=8.85
+8	havam	hava	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	LemmaId=109423|OccId=4739721|Unsandhied=havam|SyntaxAnnotation=silver|Ref=8.85
+
+# text = madhvaḥ somasya pītaye
+# sent_id = 591087
+1	madhvaḥ	madhu	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	LemmaId=35440|OccId=4739722|Unsandhied=madhvaḥ|SyntaxAnnotation=silver|Ref=8.85
+2	somasya	soma	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	obj	_	LemmaId=100106|OccId=4739723|Unsandhied=somasya|SyntaxAnnotation=silver|Ref=8.85
+3	pītaye	pā	VERB	_	VerbForm=Inf	0	root	_	LemmaId=157391|OccId=4739724|Unsandhied=pītaye|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.85
+
+# text = ayaṃ vāṃ kṛṣṇo aśvinā havate vājinīvasū
+# sent_id = 591088
+1	ayaṃ	idam	PRON	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	LemmaId=37876|OccId=4739725|Unsandhied=ayam|SyntaxAnnotation=silver|Ref=8.85
+2	vāṃ	tvad	PRON	_	Case=Acc|Number=Dual	5	obj	_	LemmaId=37880|OccId=4739726|Unsandhied=vām|SyntaxAnnotation=silver|Ref=8.85
+3	kṛṣṇo	kṛṣṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	LemmaId=4073|OccId=4739727|Unsandhied=kṛṣṇaḥ|SyntaxAnnotation=silver|Ref=8.85
+4	aśvinā	aśvin	NOUN	_	Case=Voc|Gender=Masc|Number=Dual	5	vocative	_	LemmaId=60409|OccId=4739728|Unsandhied=aśvinā|SyntaxAnnotation=silver|Ref=8.85
+5	havate	hvā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	0	root	_	LemmaId=157561|OccId=4739729|Unsandhied=havate|SyntaxAnnotation=silver|Ref=8.85
+6	vājinīvasū	vājinīvasu	ADJ	_	Case=Voc|Gender=Masc|Number=Dual	5	vocative	_	LemmaId=76435|OccId=4739730|Unsandhied=vājinīvasū|SyntaxAnnotation=silver|Ref=8.85
+
+# text = madhvaḥ somasya pītaye
+# sent_id = 591089
+1	madhvaḥ	madhu	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	LemmaId=35440|OccId=4739731|Unsandhied=madhvaḥ|SyntaxAnnotation=silver|Ref=8.85
+2	somasya	soma	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	obj	_	LemmaId=100106|OccId=4739732|Unsandhied=somasya|SyntaxAnnotation=silver|Ref=8.85
+3	pītaye	pā	VERB	_	VerbForm=Inf	0	root	_	LemmaId=157391|OccId=4739733|Unsandhied=pītaye|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.85
+
+# text = śṛṇutaṃ jaritur havaṃ kṛṣṇasya stuvato narā
+# sent_id = 591090
+1	śṛṇutaṃ	śru	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Dual	0	root	_	LemmaId=157409|OccId=4739734|Unsandhied=śṛṇutam|SyntaxAnnotation=silver|Ref=8.85
+2	jaritur	jaritṛ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	LemmaId=88014|OccId=4739735|Unsandhied=jarituḥ|SyntaxAnnotation=silver|Ref=8.85
+3	havaṃ	hava	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	LemmaId=109423|OccId=4739736|Unsandhied=havam|SyntaxAnnotation=silver|Ref=8.85
+4	kṛṣṇasya	kṛṣṇa	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	LemmaId=4073|OccId=4739737|Unsandhied=kṛṣṇasya|SyntaxAnnotation=silver|Ref=8.85
+5	stuvato	stu	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	4	acl	_	LemmaId=157515|OccId=4739738|Unsandhied=stuvataḥ|SyntaxAnnotation=silver|Ref=8.85
+6	narā	nara	NOUN	_	Case=Voc|Gender=Masc|Number=Dual	1	vocative	_	LemmaId=44242|OccId=4739739|Unsandhied=narā|SyntaxAnnotation=silver|Ref=8.85
+
+# text = madhvaḥ somasya pītaye
+# sent_id = 591091
+1	madhvaḥ	madhu	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	LemmaId=35440|OccId=4739740|Unsandhied=madhvaḥ|SyntaxAnnotation=silver|Ref=8.85
+2	somasya	soma	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	obj	_	LemmaId=100106|OccId=4739741|Unsandhied=somasya|SyntaxAnnotation=silver|Ref=8.85
+3	pītaye	pā	VERB	_	VerbForm=Inf	0	root	_	LemmaId=157391|OccId=4739742|Unsandhied=pītaye|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.85
+
+# text = chardiḥ yantam adābhyam chardiḥ yantam adābhyam viprāya stuvate narā
+# sent_id = 591092
+1	chardir	chardis	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	LemmaId=52607|OccId=4739743|Unsandhied=chardiḥ|WordSem=3877|SyntaxAnnotation=silver|Ref=8.85
+2	yantam	yam	VERB	_	Tense=Past|Mood=Imp|Person=2|Number=Dual	0	root	_	LemmaId=157296|OccId=4739744|Unsandhied=yantam|SyntaxAnnotation=silver|Ref=8.85
+3	adābhyaṃ	adābhya	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	1	acl	_	LemmaId=7559|OccId=4739745|Unsandhied=adābhyam|WordSem=80555|SyntaxAnnotation=silver|Ref=8.85
+4	viprāya	vipra	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	iobj	_	LemmaId=166894|OccId=4739746|Unsandhied=viprāya|SyntaxAnnotation=silver|Ref=8.85
+5	stuvate	stu	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	2	enj	_	LemmaId=157515|OccId=4739747|Unsandhied=stuvate|SyntaxAnnotation=silver|Ref=8.85
+6	narā	nṛ	NOUN	_	Case=Voc|Gender=Masc|Number=Dual	5	vocative	_	LemmaId=169021|OccId=4739748|Unsandhied=narā|SyntaxAnnotation=silver|Ref=8.85
+
+# text = madhvaḥ somasya pītaye
+# sent_id = 591093
+1	madhvaḥ	madhu	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	LemmaId=35440|OccId=4739749|Unsandhied=madhvaḥ|SyntaxAnnotation=silver|Ref=8.85
+2	somasya	soma	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	obj	_	LemmaId=100106|OccId=4739750|Unsandhied=somasya|SyntaxAnnotation=silver|Ref=8.85
+3	pītaye	pā	VERB	_	VerbForm=Inf	0	root	_	LemmaId=157391|OccId=4739751|Unsandhied=pītaye|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.85
+
+# text = gacchataṃ dāśuṣo gṛham itthā stuvato aśvinā
+# sent_id = 591094
+1	gacchataṃ	gam	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Dual	0	root	_	LemmaId=156214|OccId=4739752|Unsandhied=gacchatam|SyntaxAnnotation=silver|Ref=8.85
+2	dāśuṣo	dāś	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	nmod	_	LemmaId=157373|OccId=4739753|Unsandhied=dāśuṣaḥ|SyntaxAnnotation=silver|Ref=8.85
+3	gṛham	gṛha	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	LemmaId=125251|OccId=4739754|Unsandhied=gṛham|SyntaxAnnotation=silver|Ref=8.85
+4	itthā	itthā	ADV	_	_	5	advmod	_	LemmaId=63369|OccId=4739755|Unsandhied=itthā|SyntaxAnnotation=silver|Ref=8.85
+5	stuvato	stu	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	3	nmod	_	LemmaId=157515|OccId=4739756|Unsandhied=stuvataḥ|SyntaxAnnotation=silver|Ref=8.85
+6	aśvinā	aśvin	NOUN	_	Case=Voc|Gender=Masc|Number=Dual	1	vocative	_	LemmaId=60409|OccId=4739757|Unsandhied=aśvinā|SyntaxAnnotation=silver|Ref=8.85
+
+# text = madhvaḥ somasya pītaye
+# sent_id = 591095
+1	madhvaḥ	madhu	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	LemmaId=35440|OccId=4739758|Unsandhied=madhvaḥ|SyntaxAnnotation=silver|Ref=8.85
+2	somasya	soma	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	obj	_	LemmaId=100106|OccId=4739759|Unsandhied=somasya|SyntaxAnnotation=silver|Ref=8.85
+3	pītaye	pā	VERB	_	VerbForm=Inf	0	root	_	LemmaId=157391|OccId=4739760|Unsandhied=pītaye|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.85
+
+# text = yuñjāthāṃ rāsabhaṃ rathe vīḍvaṅge vṛṣaṇvasū
+# sent_id = 591096
+1	yuñjāthāṃ	yuj	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Dual	0	root	_	LemmaId=157298|OccId=4739761|Unsandhied=yuñjāthām|SyntaxAnnotation=silver|Ref=8.85
+2	rāsabhaṃ	rāsabha	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	LemmaId=71188|OccId=4739762|Unsandhied=rāsabham|SyntaxAnnotation=silver|Ref=8.85
+3	rathe	ratha	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	1	obl	_	LemmaId=66339|OccId=4739763|Unsandhied=rathe|SyntaxAnnotation=silver|Ref=8.85
+4-5	vīḍvaṅge	_	_	_	_	_	_	_	_
+4	_	vīḍu	ADJ	_	Case=Cpd	5	amod	_	LemmaId=141514|OccId=4739764|Unsandhied=vīḍu|SyntaxAnnotation=silver|Ref=8.85
+5	_	aṅga	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	3	acl	_	LemmaId=6145|OccId=4739765|Unsandhied=aṅge|SyntaxAnnotation=silver|Ref=8.85
+6	vṛṣaṇvasū	vṛṣaṇvasu	ADJ	_	Case=Voc|Gender=Masc|Number=Dual	1	vocative	_	LemmaId=142868|OccId=4739766|Unsandhied=vṛṣaṇvasū|SyntaxAnnotation=silver|Ref=8.85
+
+# text = madhvaḥ somasya pītaye
+# sent_id = 591097
+1	madhvaḥ	madhu	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	LemmaId=35440|OccId=4739767|Unsandhied=madhvaḥ|SyntaxAnnotation=silver|Ref=8.85
+2	somasya	soma	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	obj	_	LemmaId=100106|OccId=4739768|Unsandhied=somasya|SyntaxAnnotation=silver|Ref=8.85
+3	pītaye	pā	VERB	_	VerbForm=Inf	0	root	_	LemmaId=157391|OccId=4739769|Unsandhied=pītaye|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.85
+
+# text = trivandhureṇa trivṛtā rathenā yātam aśvinā
+# sent_id = 591098
+1-2	trivandhureṇa	_	_	_	_	_	_	_	_
+1	_	tri	NUM	_	Case=Cpd	2	nummod	_	LemmaId=166282|OccId=4739770|Unsandhied=tri|SyntaxAnnotation=silver|Ref=8.85
+2	_	vandhura	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	4	acl	_	LemmaId=68825|OccId=4739771|Unsandhied=vandhureṇa|SyntaxAnnotation=silver|Ref=8.85
+3	trivṛtā	trivṛt	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	4	amod	_	LemmaId=84217|OccId=4739772|Unsandhied=trivṛtā|SyntaxAnnotation=silver|Ref=8.85
+4-5	rathenā	_	_	_	_	_	_	_	_
+4	_	ratha	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	6	obl	_	LemmaId=66339|OccId=4739788|Unsandhied=rathena|SyntaxAnnotation=silver|Ref=8.85
+5	_	ā	ADV	_	_	6	advmod	_	LemmaId=213041|OccId=4739789|Unsandhied=ā|SyntaxAnnotation=silver|Ref=8.85
+6	yātam	yā	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Dual	0	root	_	LemmaId=157263|OccId=4739773|Unsandhied=yātam|SyntaxAnnotation=silver|Ref=8.85
+7	aśvinā	aśvin	NOUN	_	Case=Voc|Gender=Masc|Number=Dual	6	vocative	_	LemmaId=60409|OccId=4739774|Unsandhied=aśvinā|SyntaxAnnotation=silver|Ref=8.85
+
+# text = madhvaḥ somasya pītaye
+# sent_id = 591099
+1	madhvaḥ	madhu	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	LemmaId=35440|OccId=4739775|Unsandhied=madhvaḥ|SyntaxAnnotation=silver|Ref=8.85
+2	somasya	soma	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	obj	_	LemmaId=100106|OccId=4739776|Unsandhied=somasya|SyntaxAnnotation=silver|Ref=8.85
+3	pītaye	pā	VERB	_	VerbForm=Inf	0	root	_	LemmaId=157391|OccId=4739777|Unsandhied=pītaye|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.85
+
+# text = nū me giro nāsatyāśvinā prāvataṃ yuvam
+# sent_id = 591100
+1	nū	nu	PART	_	_	6	advmod	_	LemmaId=170168|OccId=4739790|Unsandhied=nu|SyntaxAnnotation=silver|Ref=8.85
+2	me	mad	PRON	_	Case=Gen|Number=Sing	3	nmod	_	LemmaId=37879|OccId=4739778|Unsandhied=me|SyntaxAnnotation=silver|Ref=8.85
+3	giro	gir	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	6	obj	_	LemmaId=123966|OccId=4739779|Unsandhied=giraḥ|SyntaxAnnotation=silver|Ref=8.85
+4-5	nāsatyāśvinā	_	_	_	_	_	_	_	_
+4	_	nāsatya	NOUN	_	Case=Voc|Gender=Masc|Number=Dual	6	vocative	_	LemmaId=169393|OccId=4739780|Unsandhied=nāsatyā|SyntaxAnnotation=silver|Ref=8.85
+5	_	aśvin	NOUN	_	Case=Voc|Gender=Masc|Number=Dual	4	conj	_	LemmaId=60409|OccId=4739781|Unsandhied=aśvinā|SyntaxAnnotation=silver|Ref=8.85
+6	prāvataṃ	prāv	VERB	_	Tense=Impf|Mood=Ind|Person=2|Number=Dual	0	root	_	LemmaId=163170|OccId=4739782|Unsandhied=prāvatam|SyntaxAnnotation=silver|Ref=8.85
+7	yuvam	tvad	PRON	_	Case=Nom|Number=Dual	6	nsubj	_	LemmaId=37880|OccId=4739783|Unsandhied=yuvam|SyntaxAnnotation=silver|Ref=8.85
+
+# text = madhvaḥ somasya pītaye
+# sent_id = 591101
+1	madhvaḥ	madhu	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	LemmaId=35440|OccId=4739784|Unsandhied=madhvaḥ|SyntaxAnnotation=silver|Ref=8.85
+2	somasya	soma	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	obj	_	LemmaId=100106|OccId=4739785|Unsandhied=somasya|SyntaxAnnotation=silver|Ref=8.85
+3	pītaye	pā	VERB	_	VerbForm=Inf	0	root	_	LemmaId=157391|OccId=4739786|Unsandhied=pītaye|SyntaxAnnotation=silver|Ref=8.85
+

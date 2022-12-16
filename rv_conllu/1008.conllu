@@ -1,0 +1,49 @@
+# text = ā yāhi vanasā saha ā yāhi vanasā saha gāvaḥ sacanta vartanim yat ūdhabhiḥ
+# sent_id = 597144
+1	ā	ā	ADV	_	_	2	advmod	_	LemmaId=213041|OccId=4372524|Unsandhied=ā|SyntaxAnnotation=silver|Ref=10.172
+2	yāhi	yā	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	0	root	_	LemmaId=157263|OccId=4372491|Unsandhied=yāhi|SyntaxAnnotation=silver|Ref=10.172
+3	vanasā	vanas	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	2	obl	_	LemmaId=68720|OccId=4372492|Unsandhied=vanasā|SyntaxAnnotation=silver|Ref=10.172
+4	saha	saha	ADV	_	_	3	case	_	LemmaId=105774|OccId=4372493|Unsandhied=saha|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=10.172
+5	gāvaḥ	go	NOUN	_	Case=Nom|Number=Plur	6	nsubj	_	LemmaId=166386|OccId=4372494|Unsandhied=gāvaḥ|SyntaxAnnotation=silver|Ref=10.172
+6	sacanta	sac	VERB	_	Tense=Pres|Mood=Jus|Person=3|Number=Plur	2	enj	_	LemmaId=158141|OccId=4742688|Unsandhied=sacanta|SyntaxAnnotation=silver|Ref=10.172
+7	vartaniṃ	vartani	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	LemmaId=74606|OccId=4372496|Unsandhied=vartanim|Punctuation=comma|SyntaxAnnotation=silver|Ref=10.172
+8	yad	yat	SCONJ	_	_	9	mark	_	LemmaId=73227|OccId=4372497|Unsandhied=yat|SyntaxAnnotation=silver|Ref=10.172
+9	ūdhabhiḥ	ūdhas	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	6	obl	_	LemmaId=38350|OccId=4372526|Unsandhied=ūdhabhiḥ|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=10.172
+
+# text = ā yāhi vasvyā dhiyā maṃhiṣṭho jārayanmakhaḥ sudānubhiḥ
+# sent_id = 597145
+1	ā	ā	ADV	_	_	2	advmod	_	LemmaId=213041|OccId=4372525|Unsandhied=ā|SyntaxAnnotation=silver|Ref=10.172
+2	yāhi	yā	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	0	root	_	LemmaId=157263|OccId=4372498|Unsandhied=yāhi|SyntaxAnnotation=silver|Ref=10.172
+3	vasvyā	vasu	ADJ	_	Case=Ins|Gender=Fem|Number=Sing	4	amod	_	LemmaId=75313|OccId=4372499|Unsandhied=vasvyā|SyntaxAnnotation=silver|Ref=10.172
+4	dhiyā	dhī	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	2	obl	_	LemmaId=42661|OccId=4372500|Unsandhied=dhiyā|SyntaxAnnotation=silver|Ref=10.172
+5	maṃhiṣṭho	maṃhiṣṭha	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	acl	_	LemmaId=26471|OccId=4372501|Unsandhied=maṃhiṣṭhaḥ|SyntaxAnnotation=silver|Ref=10.172
+6-7	jārayanmakhaḥ	_	_	_	_	_	_	_	_
+6	_	jāray	VERB	_	Case=Cpd|Tense=Pres|VerbForm=Part	7	acl	_	LemmaId=166624|OccId=4372502|Unsandhied=jārayat|SyntaxAnnotation=silver|Ref=10.172
+7	_	makha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	advcl	_	LemmaId=26554|OccId=4372503|Unsandhied=makhaḥ|SyntaxAnnotation=silver|Ref=10.172
+8	sudānubhiḥ	sudānu	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	2	obl	_	LemmaId=107410|OccId=4372504|Unsandhied=sudānubhiḥ|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=10.172
+
+# text = pitu bhṛtaḥ na tantum id sudānavaḥ prati dadhmaḥ pitu bhṛtaḥ na tantum id sudānavaḥ prati dadhmaḥ
+# sent_id = 597146
+1	_	pitu	NOUN	_	Case=Cpd	2	obj	_	LemmaId=219204|OccId=4372505|Unsandhied=pitu|SyntaxAnnotation=silver|Ref=10.172
+2	_	bhṛt	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	8	advcl	_	LemmaId=25696|OccId=4372506|Unsandhied=bhṛtaḥ|SyntaxAnnotation=silver|Ref=10.172
+3	na	na	PART	_	_	2	case	_	LemmaId=43432|OccId=4372507|Unsandhied=na|WordSem=132728|SyntaxAnnotation=silver|Ref=10.172
+4	tantum	tantu	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	LemmaId=96256|OccId=4372508|Unsandhied=tantum|SyntaxAnnotation=silver|Ref=10.172
+5	it	id	PART	_	_	4	discourse	_	LemmaId=217401|OccId=4372509|Unsandhied=id|SyntaxAnnotation=silver|Ref=10.172
+6	sudānavaḥ	sudānu	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	8	advcl	_	LemmaId=107410|OccId=4372510|Unsandhied=sudānavaḥ|SyntaxAnnotation=silver|Ref=10.172
+7	prati	prati	ADV	_	_	8	advmod	_	LemmaId=151755|OccId=4372511|Unsandhied=prati|SyntaxAnnotation=silver|Ref=10.172
+8	dadhmo	dhā	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Plur	0	root	_	LemmaId=157327|OccId=4372512|Unsandhied=dadhmaḥ|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=10.172
+
+# text = uṣā apa svasus tamaḥ saṃ vartayati vartaniṃ sujātatā
+# sent_id = 597147
+1	uṣā	uṣas	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	LemmaId=169428|OccId=4372514|Unsandhied=uṣāḥ|SyntaxAnnotation=silver|Ref=10.172
+2	apa	apa	ADV	_	_	6	advmod	_	LemmaId=216268|OccId=4372515|Unsandhied=apa|SyntaxAnnotation=silver|Ref=10.172
+3	svasus	svasṛ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	LemmaId=120034|OccId=4372516|Unsandhied=svasuḥ|SyntaxAnnotation=silver|Ref=10.172
+4	tamaḥ	tamas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	LemmaId=96528|OccId=4372517|Unsandhied=tamaḥ|SyntaxAnnotation=silver|Ref=10.172
+5	saṃ	sam	ADV	_	_	6	advmod	_	LemmaId=171323|OccId=4372518|Unsandhied=sam|SyntaxAnnotation=silver|Ref=10.172
+6	vartayati	vartay	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	0	root	_	LemmaId=157490|OccId=4372519|Unsandhied=vartayati|SyntaxAnnotation=silver|Ref=10.172
+7	vartaniṃ	vartani	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	conj	_	LemmaId=74606|OccId=4372520|Unsandhied=vartanim|SyntaxAnnotation=silver|Ref=10.172
+8-10	sujātatā	_	_	_	_	_	_	_	_
+8	_	su	ADV	_	_	9	advmod	_	LemmaId=204329|OccId=4372521|Unsandhied=su|SyntaxAnnotation=silver|Ref=10.172
+9	_	jan	VERB	_	Case=Cpd|VerbForm=Part	10	nmod	_	LemmaId=156584|OccId=4372522|Unsandhied=jāta|SyntaxAnnotation=silver|Ref=10.172
+10	_	tā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	advcl	_	LemmaId=203679|OccId=4372523|Unsandhied=tā|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=10.172
+

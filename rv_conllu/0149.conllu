@@ -1,0 +1,62 @@
+# text = puru tvā dāśvān voce ariḥ agne puru tvā dāśvān voce ariḥ agne tava svid ā
+# sent_id = 579483
+1	puru	puru	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	5	acl	_	LemmaId=144623|OccId=4516122|Unsandhied=puru|SyntaxAnnotation=silver|Ref=1.150
+2	tvā	tvad	PRON	_	Case=Acc|Number=Sing	4	obj	_	LemmaId=37880|OccId=4516123|Unsandhied=tvā|SyntaxAnnotation=silver|Ref=1.150
+3	dāśvān	dāś	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	LemmaId=157373|OccId=4516124|Unsandhied=dāśvān|SyntaxAnnotation=silver|Ref=1.150
+4	voce	vac	VERB	_	Tense=Past|Mood=Jus|Person=1|Number=Sing	0	root	_	LemmaId=157264|OccId=4516125|Unsandhied=voce|SyntaxAnnotation=silver|Ref=1.150
+5	'rir	ari	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LemmaId=32676|OccId=4516126|Unsandhied=ariḥ|SyntaxAnnotation=silver|Ref=1.150
+6	agne	agni	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	LemmaId=5705|OccId=4516127|Unsandhied=agne|SyntaxAnnotation=silver|Ref=1.150
+7	tava	tvad	PRON	_	Case=Gen|Number=Sing	4	enj	_	LemmaId=37880|OccId=4516128|Unsandhied=tava|SyntaxAnnotation=silver|Ref=1.150
+8	svid	svid	PART	_	_	7	discourse	_	LemmaId=121811|OccId=4516129|Unsandhied=svid|SyntaxAnnotation=silver|Ref=1.150
+9	ā	ā	ADV	_	_	7	case	_	LemmaId=213041|OccId=4516152|Unsandhied=ā|SyntaxAnnotation=silver|Ref=1.150
+
+# text = todasyeva śaraṇa ā mahasya
+# sent_id = 579484
+1-2	todasyeva	_	_	_	_	_	_	_	_
+1	_	toda	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	LemmaId=83588|OccId=4516153|Unsandhied=todasya|SyntaxAnnotation=silver|Ref=1.150
+2	_	iva	PART	_	_	3	case	_	LemmaId=63807|OccId=4516154|Unsandhied=iva|SyntaxAnnotation=silver|Ref=1.150
+3	śaraṇa	śaraṇa	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	5	orphan	_	LemmaId=116840|OccId=4516130|Unsandhied=śaraṇe|SyntaxAnnotation=silver|Ref=1.150
+4	ā	ā	ADV	_	_	5	case	_	LemmaId=213041|OccId=4516155|Unsandhied=ā|SyntaxAnnotation=silver|Ref=1.150
+5	mahasya	maha	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	0	root	_	LemmaId=37527|OccId=4516131|Unsandhied=mahasya|Punctuation=comma|SyntaxAnnotation=silver|Ref=1.150
+
+# text = vy aninasya dhaninaḥ prahoṣe cid araruṣaḥ
+# sent_id = 579485
+1	vy	vi	ADV	_	_	0	root	_	LemmaId=216733|OccId=4516132|Unsandhied=vi|SyntaxAnnotation=silver|Ref=1.150
+2	aninasya	anina	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	LemmaId=10475|OccId=4516133|Unsandhied=aninasya|SyntaxAnnotation=silver|Ref=1.150
+3	dhaninaḥ	dhanin	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	LemmaId=91725|OccId=4516134|Unsandhied=dhaninaḥ|SyntaxAnnotation=silver|Ref=1.150
+4	prahoṣe	prahoṣa	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	0	root	_	LemmaId=155129|OccId=4516135|Unsandhied=prahoṣe|SyntaxAnnotation=silver|Ref=1.150
+5	cid	cit	PART	_	_	4	discourse	_	LemmaId=217142|OccId=4516136|Unsandhied=cit|SyntaxAnnotation=silver|Ref=1.150
+6-7	araruṣaḥ	_	_	_	_	_	_	_	_
+6	_	a	PART	_	_	7	advmod	_	LemmaId=213048|OccId=4516156|Unsandhied=a|SyntaxAnnotation=silver|Ref=1.150
+7	_	rā	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	LemmaId=158909|OccId=4516157|Unsandhied=raruṣaḥ|SyntaxAnnotation=silver|Ref=1.150
+
+# text = kadā cana prajigato adevayoḥ
+# sent_id = 579486
+1	kadā	kadā	ADV	_	_	3	orphan	_	LemmaId=170578|OccId=4516137|Unsandhied=kadā|SyntaxAnnotation=silver|Ref=1.150
+2	cana	cana	PART	_	_	3	discourse	_	LemmaId=213756|OccId=4516138|Unsandhied=cana|SyntaxAnnotation=silver|Ref=1.150
+3	prajigato	pragā	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	0	root	_	LemmaId=162367|OccId=4516139|Unsandhied=prajigataḥ|SyntaxAnnotation=silver|Ref=1.150
+4-5	adevayoḥ	_	_	_	_	_	_	_	_
+4	_	a	PART	_	_	5	advmod	_	LemmaId=213048|OccId=4516158|Unsandhied=a|SyntaxAnnotation=silver|Ref=1.150
+5	_	devayu	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	3	conj	_	LemmaId=87138|OccId=4516159|Unsandhied=devayoḥ|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.150
+
+# text = sa candro vipra martyo maho vrādhantamo divi
+# sent_id = 579487
+1	sa	sa	ADV	_	_	2	advmod	_	LemmaId=202954|OccId=4516140|Unsandhied=sa|SyntaxAnnotation=silver|Ref=1.150
+2	candro	candra	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	acl	_	LemmaId=218932|OccId=4516141|Unsandhied=candraḥ|SyntaxAnnotation=silver|Ref=1.150
+3	vipra	vipra	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	LemmaId=166893|OccId=4516142|Unsandhied=vipra|SyntaxAnnotation=silver|Ref=1.150
+4	martyo	martya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LemmaId=37121|OccId=4516143|Unsandhied=martyaḥ|SyntaxAnnotation=silver|Ref=1.150
+5	maho	maha	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	LemmaId=37527|OccId=4516144|Unsandhied=mahaḥ|SyntaxAnnotation=silver|Ref=1.150
+6	vrādhantamo	vrādhantama	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	acl	_	LemmaId=219936|OccId=4516160|Unsandhied=vrādhantamaḥ|SyntaxAnnotation=silver|Ref=1.150
+7	divi	div	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	6	obl	_	LemmaId=168377|OccId=4516145|Unsandhied=divi|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.150
+
+# text = pra pret te agne vanuṣaḥ syāma
+# sent_id = 579488
+1	pra	pra	ADV	_	_	7	advmod	_	LemmaId=216277|OccId=4516146|Unsandhied=pra|SyntaxAnnotation=silver|Ref=1.150
+2-3	pret	_	_	_	_	_	_	_	_
+2	_	pra	ADV	_	_	1	conj	_	LemmaId=216277|OccId=4516147|Unsandhied=pra|SyntaxAnnotation=silver|Ref=1.150
+3	_	id	PART	_	_	2	discourse	_	LemmaId=217401|OccId=4516148|Unsandhied=id|SyntaxAnnotation=silver|Ref=1.150
+4	te	tvad	PRON	_	Case=Gen|Number=Sing	6	nmod	_	LemmaId=37880|OccId=4516149|Unsandhied=te|SyntaxAnnotation=silver|Ref=1.150
+5	agne	agni	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	7	vocative	_	LemmaId=5705|OccId=4516150|Unsandhied=agne|SyntaxAnnotation=silver|Ref=1.150
+6	vanuṣaḥ	vanus	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	LemmaId=68749|OccId=4516161|Unsandhied=vanuṣaḥ|SyntaxAnnotation=silver|Ref=1.150
+7	syāma	as	VERB	_	Tense=Pres|Mood=Opt|Person=1|Number=Plur	0	root	_	LemmaId=156122|OccId=4516151|Unsandhied=syāma|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.150
+

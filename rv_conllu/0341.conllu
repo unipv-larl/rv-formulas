@@ -1,0 +1,129 @@
+# text = agram pibā madhūnāṃ sutaṃ vāyo diviṣṭiṣu
+# sent_id = 583358
+1	agram	agra	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	LemmaId=5937|OccId=4548389|Unsandhied=agram|SyntaxAnnotation=silver|Ref=4.46
+2	pibā	pā	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	0	root	_	LemmaId=157391|OccId=4548390|Unsandhied=pibā|SyntaxAnnotation=silver|Ref=4.46
+3	madhūnāṃ	madhu	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	1	nmod	_	LemmaId=35443|OccId=4548391|Unsandhied=madhūnām|SyntaxAnnotation=silver|Ref=4.46
+4	sutaṃ	su	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	1	acl	_	LemmaId=157338|OccId=4548392|Unsandhied=sutam|SyntaxAnnotation=silver|Ref=4.46
+5	vāyo	vāyu	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	LemmaId=76933|OccId=4548393|Unsandhied=vāyo|SyntaxAnnotation=silver|Ref=4.46
+6	diviṣṭiṣu	diviṣṭi	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	2	obl	_	LemmaId=146880|OccId=4548394|Unsandhied=diviṣṭiṣu|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=4.46
+
+# text = tvaṃ hi pūrvapā asi
+# sent_id = 583359
+1	tvaṃ	tvad	PRON	_	Case=Nom|Number=Sing	4	nsubj	_	LemmaId=37880|OccId=4548395|Unsandhied=tvam|SyntaxAnnotation=silver|Ref=4.46
+2	hi	hi	PART	_	_	4	discourse	_	LemmaId=109879|OccId=4548396|Unsandhied=hi|SyntaxAnnotation=silver|Ref=4.46
+3-4	pūrvapā	_	_	_	_	_	_	_	_
+3	_	pūrva	PRON	_	Case=Cpd	4	advmod	_	LemmaId=145625|OccId=4548397|Unsandhied=pūrva|SyntaxAnnotation=silver|Ref=4.46
+4	_	pā	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LemmaId=218969|OccId=4548398|Unsandhied=pāḥ|SyntaxAnnotation=silver|Ref=4.46
+5	asi	as	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Sing	4	cop	_	LemmaId=156122|OccId=4548399|Unsandhied=asi|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=4.46
+
+# text = śatenā no abhiṣṭibhir niyutvāṁ indrasārathiḥ
+# sent_id = 583360
+1-2	śatenā	_	_	_	_	_	_	_	_
+1	_	śata	NUM	_	Case=Ins|Gender=Neut|Number=Sing	7	obl	_	LemmaId=116433|OccId=4548456|Unsandhied=śatena|SyntaxAnnotation=silver|Ref=4.46
+2	_	ā	ADV	_	_	1	case	_	LemmaId=213041|OccId=4548457|Unsandhied=ā|SyntaxAnnotation=silver|Ref=4.46
+3	no	mad	PRON	_	Case=Acc|Number=Plur	7	obl	_	LemmaId=37879|OccId=4548400|Unsandhied=naḥ|SyntaxAnnotation=silver|Ref=4.46
+4	abhiṣṭibhir	abhiṣṭi	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	5	obl	_	LemmaId=31054|OccId=4548401|Unsandhied=abhiṣṭibhiḥ|SyntaxAnnotation=silver|Ref=4.46
+5	niyutvāṁ	niyutvat	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LemmaId=216303|OccId=4548458|Unsandhied=niyutvāṁ|SyntaxAnnotation=silver|Ref=4.46
+6-7	indrasārathiḥ	_	_	_	_	_	_	_	_
+6	_	indra	NOUN	_	Case=Cpd	7	nmod	_	LemmaId=63463|OccId=4548402|Unsandhied=indra|SyntaxAnnotation=silver|Ref=4.46
+7	_	sārathi	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LemmaId=113063|OccId=4548403|Unsandhied=sārathiḥ|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=4.46
+
+# text = vāyo sutasya tṛmpatam
+# sent_id = 583361
+1	vāyo	vāyu	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	3	vocative	_	LemmaId=76933|OccId=4548404|Unsandhied=vāyo|SyntaxAnnotation=silver|Ref=4.46
+2	sutasya	suta	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	obj	_	LemmaId=106594|OccId=4548405|Unsandhied=sutasya|SyntaxAnnotation=silver|Ref=4.46
+3	tṛmpatam	tṛp	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Dual	0	root	_	LemmaId=157239|OccId=4548406|Unsandhied=tṛmpatam|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=4.46
+
+# text = ā vāṃ sahasraṃ haraya indravāyū abhi prayaḥ
+# sent_id = 583362
+1	ā	ā	ADV	_	_	2	case	_	LemmaId=213041|OccId=4548459|Unsandhied=ā|SyntaxAnnotation=silver|Ref=4.46
+2	vāṃ	tvad	PRON	_	Case=Acc|Number=Dual	4	orphan	_	LemmaId=37880|OccId=4548407|Unsandhied=vām|SyntaxAnnotation=silver|Ref=4.46
+3	sahasraṃ	sahasra	NUM	_	Case=Nom|Gender=Neut|Number=Sing	4	nummod	_	LemmaId=111378|OccId=4548408|Unsandhied=sahasram|SyntaxAnnotation=silver|Ref=4.46
+4	haraya	hari	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	0	root	_	LemmaId=108715|OccId=4548409|Unsandhied=harayaḥ|SyntaxAnnotation=silver|Ref=4.46
+5-6	indravāyū	_	_	_	_	_	_	_	_
+5	_	indra	NOUN	_	Case=Cpd	6	compound	_	LemmaId=63463|OccId=4548410|Unsandhied=indra|SyntaxAnnotation=silver|Ref=4.46
+6	_	vāyu	NOUN	_	Case=Voc|Gender=Masc|Number=Dual	8	orphan	_	LemmaId=76933|OccId=4548411|Unsandhied=vāyū|SyntaxAnnotation=silver|Ref=4.46
+7	abhi	abhi	ADV	_	_	8	case	_	LemmaId=171289|OccId=4548412|Unsandhied=abhi|SyntaxAnnotation=silver|Ref=4.46
+8	prayaḥ	prayas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	conj	_	LemmaId=155466|OccId=4548413|Unsandhied=prayaḥ|SyntaxAnnotation=silver|Ref=4.46
+
+# text = vahantu somapītaye
+# sent_id = 583363
+1	vahantu	vah	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Plur	0	root	_	LemmaId=157404|OccId=4548414|Unsandhied=vahantu|SyntaxAnnotation=silver|Ref=4.46
+2-3	somapītaye	_	_	_	_	_	_	_	_
+2	_	soma	NOUN	_	Case=Cpd	3	nmod	_	LemmaId=100106|OccId=4548415|Unsandhied=soma|SyntaxAnnotation=silver|Ref=4.46
+3	_	pīti	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	1	advcl	_	LemmaId=144299|OccId=4548416|Unsandhied=pītaye|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=4.46
+
+# text = rathaṃ hiraṇyavandhuram indravāyū svadhvaram
+# sent_id = 583364
+1	rathaṃ	ratha	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	0	root	_	LemmaId=66339|OccId=4548417|Unsandhied=ratham|SyntaxAnnotation=silver|Ref=4.46
+2-3	hiraṇyavandhuram	_	_	_	_	_	_	_	_
+2	_	hiraṇya	NOUN	_	Case=Cpd	3	amod	_	LemmaId=110191|OccId=4548418|Unsandhied=hiraṇya|SyntaxAnnotation=silver|Ref=4.46
+3	_	vandhura	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	acl	_	LemmaId=68825|OccId=4548419|Unsandhied=vandhuram|SyntaxAnnotation=silver|Ref=4.46
+4-5	indravāyū	_	_	_	_	_	_	_	_
+4	_	indra	NOUN	_	Case=Cpd	5	compound	_	LemmaId=63463|OccId=4548420|Unsandhied=indra|SyntaxAnnotation=silver|Ref=4.46
+5	_	vāyu	NOUN	_	Case=Voc|Gender=Masc|Number=Dual	7	vocative	_	LemmaId=76933|OccId=4548421|Unsandhied=vāyū|SyntaxAnnotation=silver|Ref=4.46
+6-7	svadhvaram	_	_	_	_	_	_	_	_
+6	_	su	ADV	_	_	7	advmod	_	LemmaId=204329|OccId=4548422|Unsandhied=su|SyntaxAnnotation=silver|Ref=4.46
+7	_	adhvara	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	conj	_	LemmaId=9736|OccId=4548423|Unsandhied=adhvaram|SyntaxAnnotation=silver|Ref=4.46
+
+# text = ā hi sthātho divispṛśam
+# sent_id = 583365
+1	ā	ā	ADV	_	_	3	advmod	_	LemmaId=213041|OccId=4548460|Unsandhied=ā|SyntaxAnnotation=silver|Ref=4.46
+2	hi	hi	PART	_	_	3	discourse	_	LemmaId=109879|OccId=4548424|Unsandhied=hi|SyntaxAnnotation=silver|Ref=4.46
+3	sthātho	sthā	VERB	_	Tense=Past|Mood=Sub|Person=2|Number=Dual	0	root	_	LemmaId=157340|OccId=4548463|Unsandhied=sthāthaḥ|SyntaxAnnotation=silver|Ref=4.46
+4	divispṛśam	divispṛś	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	LemmaId=171283|OccId=4548425|Unsandhied=divispṛśam|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=4.46
+
+# text = rathena pṛthupājasā dāśvāṃsam upa gacchatam
+# sent_id = 583366
+1	rathena	ratha	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	6	obl	_	LemmaId=66339|OccId=4548426|Unsandhied=rathena|SyntaxAnnotation=silver|Ref=4.46
+2-3	pṛthupājasā	_	_	_	_	_	_	_	_
+2	_	pṛthu	ADJ	_	Case=Cpd	3	amod	_	LemmaId=150040|OccId=4548427|Unsandhied=pṛthu|SyntaxAnnotation=silver|Ref=4.46
+3	_	pājas	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	1	acl	_	LemmaId=93122|OccId=4548428|Unsandhied=pājasā|SyntaxAnnotation=silver|Ref=4.46
+4	dāśvāṃsam	dāś	VERB	_	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	LemmaId=157373|OccId=4548429|Unsandhied=dāśvāṃsam|SyntaxAnnotation=silver|Ref=4.46
+5	upa	upa	ADV	_	_	6	advmod	_	LemmaId=169779|OccId=4548430|Unsandhied=upa|SyntaxAnnotation=silver|Ref=4.46
+6	gacchatam	gam	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Dual	0	root	_	LemmaId=156214|OccId=4548431|Unsandhied=gacchatam|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=4.46
+
+# text = indravāyū ihā gatam
+# sent_id = 583367
+1-2	indravāyū	_	_	_	_	_	_	_	_
+1	_	indra	NOUN	_	Case=Cpd	2	compound	_	LemmaId=63463|OccId=4548432|Unsandhied=indra|SyntaxAnnotation=silver|Ref=4.46
+2	_	vāyu	NOUN	_	Case=Voc|Gender=Masc|Number=Dual	5	vocative	_	LemmaId=76933|OccId=4548433|Unsandhied=vāyū|SyntaxAnnotation=silver|Ref=4.46
+3-4	ihā	_	_	_	_	_	_	_	_
+3	_	iha	ADV	_	_	5	advmod	_	LemmaId=63959|OccId=4548461|Unsandhied=iha|SyntaxAnnotation=silver|Ref=4.46
+4	_	ā	ADV	_	_	5	advmod	_	LemmaId=213041|OccId=4548462|Unsandhied=ā|SyntaxAnnotation=silver|Ref=4.46
+5	gatam	gam	VERB	_	Tense=Past|Mood=Imp|Person=2|Number=Dual	0	root	_	LemmaId=156214|OccId=4548434|Unsandhied=gatam|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=4.46
+
+# text = indra vāyū ayam sutaḥ indra vāyū ayam sutaḥ tam devebhiḥ sajoṣasā
+# sent_id = 583368
+1	_	indra	NOUN	_	Case=Cpd	2	compound	_	LemmaId=63463|OccId=4548435|Unsandhied=indra|SyntaxAnnotation=silver|Ref=4.46
+2	_	vāyu	NOUN	_	Case=Voc|Gender=Masc|Number=Dual	4	vocative	_	LemmaId=76933|OccId=4548436|Unsandhied=vāyū|SyntaxAnnotation=silver|Ref=4.46
+3	ayaṃ	idam	PRON	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LemmaId=37876|OccId=4548437|Unsandhied=ayam|SyntaxAnnotation=silver|Ref=4.46
+4	sutas	suta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LemmaId=106594|OccId=4548438|Unsandhied=sutaḥ|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=4.46
+5	taṃ	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	7	orphan	_	LemmaId=37875|OccId=4548439|Unsandhied=tam|SyntaxAnnotation=silver|Ref=4.46
+6	devebhiḥ	deva	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	7	obl	_	LemmaId=86559|OccId=4548440|Unsandhied=devebhiḥ|SyntaxAnnotation=silver|Ref=4.46
+7	sajoṣasā	sajoṣas	ADJ	_	Case=Nom|Gender=Masc|Number=Dual	4	enj	_	LemmaId=9220|OccId=4548441|Unsandhied=sajoṣasā|SyntaxAnnotation=silver|Ref=4.46
+
+# text = pibataṃ dāśuṣo gṛhe
+# sent_id = 583369
+1	pibataṃ	pā	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Dual	0	root	_	LemmaId=157391|OccId=4548442|Unsandhied=pibatam|SyntaxAnnotation=silver|Ref=4.46
+2	dāśuṣo	dāś	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	nmod	_	LemmaId=157373|OccId=4548443|Unsandhied=dāśuṣaḥ|SyntaxAnnotation=silver|Ref=4.46
+3	gṛhe	gṛha	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	1	obl	_	LemmaId=125251|OccId=4548444|Unsandhied=gṛhe|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=4.46
+
+# text = iha prayāṇam astu vām iha prayāṇam astu vām indra vāyū vimocanam
+# sent_id = 583370
+1	iha	iha	ADV	_	_	0	root	_	LemmaId=63959|OccId=4548445|Unsandhied=iha|SyntaxAnnotation=silver|Ref=4.46
+2	prayāṇam	prayāṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	LemmaId=155471|OccId=4548446|Unsandhied=prayāṇam|SyntaxAnnotation=silver|Ref=4.46
+3	astu	as	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Sing	1	cop	_	LemmaId=156122|OccId=4548447|Unsandhied=astu|SyntaxAnnotation=silver|Ref=4.46
+4	vām	tvad	PRON	_	Case=Gen|Number=Dual	2	nmod	_	LemmaId=37880|OccId=4548448|Unsandhied=vām|SyntaxAnnotation=silver|Ref=4.46
+5	_	indra	NOUN	_	Case=Cpd	6	compound	_	LemmaId=63463|OccId=4548449|Unsandhied=indra|SyntaxAnnotation=silver|Ref=4.46
+6	_	vāyu	NOUN	_	Case=Voc|Gender=Masc|Number=Dual	7	vocative	_	LemmaId=76933|OccId=4548450|Unsandhied=vāyū|Punctuation=comma|SyntaxAnnotation=silver|Ref=4.46
+7	vimocanam	vimocana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	enj	_	LemmaId=123134|OccId=4548451|Unsandhied=vimocanam|SyntaxAnnotation=silver|Ref=4.46
+
+# text = iha vāṃ somapītaye
+# sent_id = 583371
+1	iha	iha	ADV	_	_	4	advmod	_	LemmaId=63959|OccId=4548452|Unsandhied=iha|SyntaxAnnotation=silver|Ref=4.46
+2	vāṃ	tvad	PRON	_	Case=Gen|Number=Dual	4	nmod	_	LemmaId=37880|OccId=4548453|Unsandhied=vām|SyntaxAnnotation=silver|Ref=4.46
+3-4	somapītaye	_	_	_	_	_	_	_	_
+3	_	soma	NOUN	_	Case=Cpd	4	nmod	_	LemmaId=100106|OccId=4548454|Unsandhied=soma|SyntaxAnnotation=silver|Ref=4.46
+4	_	pīti	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	0	root	_	LemmaId=144299|OccId=4548455|Unsandhied=pītaye|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=4.46
+

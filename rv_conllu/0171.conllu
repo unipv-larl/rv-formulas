@@ -1,0 +1,50 @@
+# text = citro vo 'stu yāmaś citra ūtī sudānavaḥ
+# sent_id = 579949
+1	citro	citra	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LemmaId=51427|OccId=4532030|Unsandhied=citraḥ|SyntaxAnnotation=silver|Ref=1.172
+2	vo	tvad	PRON	_	Case=Gen|Number=Plur	4	nmod	_	LemmaId=37880|OccId=4532031|Unsandhied=vaḥ|SyntaxAnnotation=silver|Ref=1.172
+3	'stu	as	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Sing	1	cop	_	LemmaId=156122|OccId=4532032|Unsandhied=astu|SyntaxAnnotation=silver|Ref=1.172
+4	yāmaś	yāma	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LemmaId=74330|OccId=4532033|Unsandhied=yāmaḥ|SyntaxAnnotation=silver|Ref=1.172
+5	citra	citra	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	LemmaId=51427|OccId=4532034|Unsandhied=citraḥ|SyntaxAnnotation=silver|Ref=1.172
+6	ūtī	ūti	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	5	obl	_	LemmaId=38335|OccId=4532035|Unsandhied=ūtī|SyntaxAnnotation=silver|Ref=1.172
+7	sudānavaḥ	sudānu	ADJ	_	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	LemmaId=107410|OccId=4532036|Unsandhied=sudānavaḥ|SyntaxAnnotation=silver|Ref=1.172
+
+# text = maruto ahibhānavaḥ
+# sent_id = 579950
+1	maruto	marut	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	0	root	_	LemmaId=37014|OccId=4532037|Unsandhied=marutaḥ|SyntaxAnnotation=silver|Ref=1.172
+2-3	ahibhānavaḥ	_	_	_	_	_	_	_	_
+2	_	ahi	NOUN	_	Case=Cpd	3	amod	_	LemmaId=61576|OccId=4532038|Unsandhied=ahi|SyntaxAnnotation=silver|Ref=1.172
+3	_	bhānu	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	1	acl	_	LemmaId=49438|OccId=4532039|Unsandhied=bhānavaḥ|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.172
+
+# text = āre sā vaḥ sudānavo maruta ṛñjatī śaruḥ
+# sent_id = 579951
+1	āre	āre	ADV	_	_	0	root	_	LemmaId=59479|OccId=4532040|Unsandhied=āre|SyntaxAnnotation=silver|Ref=1.172
+2	sā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	LemmaId=37875|OccId=4532041|Unsandhied=sā|SyntaxAnnotation=silver|Ref=1.172
+3	vaḥ	tvad	PRON	_	Case=Gen|Number=Plur	7	nmod	_	LemmaId=37880|OccId=4532042|Unsandhied=vaḥ|SyntaxAnnotation=silver|Ref=1.172
+4	sudānavo	sudānu	ADJ	_	Case=Voc|Gender=Masc|Number=Plur	7	vocative	_	LemmaId=107410|OccId=4532043|Unsandhied=sudānavaḥ|SyntaxAnnotation=silver|Ref=1.172
+5	maruta	marut	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	7	vocative	_	LemmaId=37014|OccId=4532044|Unsandhied=marutaḥ|SyntaxAnnotation=silver|Ref=1.172
+6	ṛñjatī	ṛj	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part	7	acl	_	LemmaId=156148|OccId=4532045|Unsandhied=ṛñjatī|SyntaxAnnotation=silver|Ref=1.172
+7	śaruḥ	śaru	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	LemmaId=116828|OccId=4532046|Unsandhied=śaruḥ|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.172
+
+# text = āre aśmā yam asyatha
+# sent_id = 579952
+1	āre	āre	ADV	_	_	0	root	_	LemmaId=59479|OccId=4532047|Unsandhied=āre|SyntaxAnnotation=silver|Ref=1.172
+2	aśmā	aśman	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LemmaId=60078|OccId=4532048|Unsandhied=aśmā|Punctuation=comma|SyntaxAnnotation=silver|Ref=1.172
+3	yam	yad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	LemmaId=37877|OccId=4532049|Unsandhied=yam|SyntaxAnnotation=silver|Ref=1.172
+4	asyatha	as	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Plur	2	acl	_	LemmaId=156123|OccId=4532050|Unsandhied=asyatha|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.172
+
+# text = tṛṇaskandasya nu viśaḥ pari vṛṅkta sudānavaḥ
+# sent_id = 579953
+1	tṛṇaskandasya	tṛṇaskanda	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	LemmaId=83254|OccId=4532051|Unsandhied=tṛṇaskandasya|SyntaxAnnotation=silver|Ref=1.172
+2	nu	nu	PART	_	_	5	advmod	_	LemmaId=170168|OccId=4532052|Unsandhied=nu|SyntaxAnnotation=silver|Ref=1.172
+3	viśaḥ	viś	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	5	obj	_	LemmaId=138709|OccId=4532053|Unsandhied=viśaḥ|SyntaxAnnotation=silver|Ref=1.172
+4	pari	pari	ADV	_	_	5	advmod	_	LemmaId=170864|OccId=4532054|Unsandhied=pari|SyntaxAnnotation=silver|Ref=1.172
+5	vṛṅkta	vṛj	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Plur	0	root	_	LemmaId=157332|OccId=4532055|Unsandhied=vṛṅkta|SyntaxAnnotation=silver|Ref=1.172
+6	sudānavaḥ	sudānu	ADJ	_	Case=Voc|Gender=Masc|Number=Plur	5	vocative	_	LemmaId=107410|OccId=4532056|Unsandhied=sudānavaḥ|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.172
+
+# text = ūrdhvān naḥ karta jīvase
+# sent_id = 579954
+1	ūrdhvān	ūrdhva	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	3	xcomp	_	LemmaId=38446|OccId=4532057|Unsandhied=ūrdhvān|SyntaxAnnotation=silver|Ref=1.172
+2	naḥ	mad	PRON	_	Case=Acc|Number=Plur	3	obj	_	LemmaId=37879|OccId=4532058|Unsandhied=naḥ|SyntaxAnnotation=silver|Ref=1.172
+3	karta	kṛ	VERB	_	Tense=Past|Mood=Imp|Person=2|Number=Plur	0	root	_	LemmaId=156168|OccId=4532059|Unsandhied=karta|SyntaxAnnotation=silver|Ref=1.172
+4	jīvase	jīv	VERB	_	VerbForm=Inf	3	advcl	_	LemmaId=157146|OccId=4532060|Unsandhied=jīvase|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.172
+

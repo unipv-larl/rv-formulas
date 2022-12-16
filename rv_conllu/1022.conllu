@@ -1,0 +1,58 @@
+# text = vāta ā vātu bheṣajaṃ śambhu mayobhu no hṛde
+# sent_id = 597240
+1	vāta	vāta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	LemmaId=75767|OccId=4374104|Unsandhied=vātaḥ|SyntaxAnnotation=silver|Ref=10.186
+2	ā	ā	ADV	_	_	3	advmod	_	LemmaId=213041|OccId=4374140|Unsandhied=ā|SyntaxAnnotation=silver|Ref=10.186
+3	vātu	vā	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Sing	0	root	_	LemmaId=157405|OccId=4374105|Unsandhied=vātu|SyntaxAnnotation=silver|Ref=10.186
+4	bheṣajaṃ	bheṣaja	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	LemmaId=25937|OccId=4374106|Unsandhied=bheṣajam|SyntaxAnnotation=silver|Ref=10.186
+5	śambhu	śambhu	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	4	amod	_	LemmaId=116750|OccId=4374107|Unsandhied=śambhu|SyntaxAnnotation=silver|Ref=10.186
+6	mayobhu	mayobhu	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	LemmaId=218787|OccId=4374108|Unsandhied=mayobhu|SyntaxAnnotation=silver|Ref=10.186
+7	no	mad	PRON	_	Case=Gen|Number=Plur	8	nmod	_	LemmaId=37879|OccId=4374109|Unsandhied=naḥ|SyntaxAnnotation=silver|Ref=10.186
+8	hṛde	hṛd	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	3	advcl	_	LemmaId=110524|OccId=4374110|Unsandhied=hṛde|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=10.186
+
+# text = pra ṇa āyūṃṣi tāriṣat
+# sent_id = 597241
+1	pra	pra	ADV	_	_	4	advmod	_	LemmaId=216277|OccId=4374111|Unsandhied=pra|SyntaxAnnotation=silver|Ref=10.186
+2	ṇa	mad	PRON	_	Case=Gen|Number=Plur	3	nmod	_	LemmaId=37879|OccId=4374141|Unsandhied=ṇaḥ|SyntaxAnnotation=silver|Ref=10.186
+3	āyūṃṣi	āyus	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	LemmaId=59234|OccId=4374112|Unsandhied=āyūṃṣi|SyntaxAnnotation=silver|Ref=10.186
+4	tāriṣat	tṛ	VERB	_	Tense=Past|Mood=Sub|Person=3|Number=Sing	0	root	_	LemmaId=157237|OccId=4374113|Unsandhied=tāriṣat|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=10.186
+
+# text = uta vāta pitāsi na uta bhrātota naḥ sakhā
+# sent_id = 597242
+1	uta	uta	CCONJ	_	_	3	cc	_	LemmaId=55443|OccId=4374114|Unsandhied=uta|SyntaxAnnotation=silver|Ref=10.186
+2	vāta	vāta	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	3	vocative	_	LemmaId=75767|OccId=4374115|Unsandhied=vāta|SyntaxAnnotation=silver|Ref=10.186
+3-4	pitāsi	_	_	_	_	_	_	_	_
+3	_	pitṛ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LemmaId=94899|OccId=4374116|Unsandhied=pitā|SyntaxAnnotation=silver|Ref=10.186
+4	_	as	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Sing	3	cop	_	LemmaId=156122|OccId=4374117|Unsandhied=asi|SyntaxAnnotation=silver|Ref=10.186
+5	na	mad	PRON	_	Case=Gen|Number=Plur	3	nmod	_	LemmaId=37879|OccId=4374118|Unsandhied=naḥ|SyntaxAnnotation=silver|Ref=10.186
+6	uta	uta	CCONJ	_	_	7	cc	_	LemmaId=55443|OccId=4374119|Unsandhied=uta|SyntaxAnnotation=silver|Ref=10.186
+7-8	bhrātota	_	_	_	_	_	_	_	_
+7	_	bhrātṛ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	LemmaId=26394|OccId=4374120|Unsandhied=bhrātā|SyntaxAnnotation=silver|Ref=10.186
+8	_	uta	CCONJ	_	_	10	cc	_	LemmaId=55443|OccId=4374121|Unsandhied=uta|SyntaxAnnotation=silver|Ref=10.186
+9	naḥ	mad	PRON	_	Case=Gen|Number=Plur	10	nmod	_	LemmaId=37879|OccId=4374122|Unsandhied=naḥ|SyntaxAnnotation=silver|Ref=10.186
+10	sakhā	sakhi	NOUN	_	Case=Nom|Number=Sing	3	conj	_	LemmaId=170735|OccId=4374123|Unsandhied=sakhā|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=10.186
+
+# text = sa no jīvātave kṛdhi
+# sent_id = 597243
+1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LemmaId=37875|OccId=4374124|Unsandhied=sa|SyntaxAnnotation=silver|Ref=10.186
+2	no	mad	PRON	_	Case=Acc|Number=Plur	4	obj	_	LemmaId=37879|OccId=4374125|Unsandhied=naḥ|SyntaxAnnotation=silver|Ref=10.186
+3	jīvātave	jīvātu	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	advcl	_	LemmaId=89383|OccId=4374126|Unsandhied=jīvātave|SyntaxAnnotation=silver|Ref=10.186
+4	kṛdhi	kṛ	VERB	_	Tense=Past|Mood=Imp|Person=2|Number=Sing	0	root	_	LemmaId=156168|OccId=4374127|Unsandhied=kṛdhi|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=10.186
+
+# text = yad ado vāta te gṛhe 'mṛtasya nidhir hitaḥ
+# sent_id = 597244
+1	yad	yad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	2	det	_	LemmaId=37877|OccId=4374128|Unsandhied=yat|SyntaxAnnotation=silver|Ref=10.186
+2	ado	adas	PRON	_	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	LemmaId=163742|OccId=4374129|Unsandhied=adaḥ|SyntaxAnnotation=silver|Ref=10.186
+3	vāta	vāta	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	8	vocative	_	LemmaId=75767|OccId=4374130|Unsandhied=vāta|SyntaxAnnotation=silver|Ref=10.186
+4	te	tvad	PRON	_	Case=Gen|Number=Sing	5	nmod	_	LemmaId=37880|OccId=4374131|Unsandhied=te|SyntaxAnnotation=silver|Ref=10.186
+5	gṛhe	gṛha	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	8	obl	_	LemmaId=125251|OccId=4374132|Unsandhied=gṛhe|SyntaxAnnotation=silver|Ref=10.186
+6	'mṛtasya	amṛta	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	LemmaId=31887|OccId=4374133|Unsandhied=amṛtasya|SyntaxAnnotation=silver|Ref=10.186
+7	nidhir	nidhi	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	LemmaId=35158|OccId=4374134|Unsandhied=nidhiḥ|SyntaxAnnotation=silver|Ref=10.186
+8	hitaḥ	dhā	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	LemmaId=157327|OccId=4374135|Unsandhied=hitaḥ|Punctuation=comma|SyntaxAnnotation=silver|Ref=10.186
+
+# text = tato no dehi jīvase
+# sent_id = 597245
+1	tato	tatas	ADV	_	_	3	advmod	_	LemmaId=95922|OccId=4374136|Unsandhied=tatas|SyntaxAnnotation=silver|Ref=10.186
+2	no	mad	PRON	_	Case=Dat|Number=Plur	3	iobj	_	LemmaId=37879|OccId=4374137|Unsandhied=naḥ|SyntaxAnnotation=silver|Ref=10.186
+3	dehi	dā	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	0	root	_	LemmaId=157372|OccId=4374138|Unsandhied=dehi|SyntaxAnnotation=silver|Ref=10.186
+4	jīvase	jīv	VERB	_	VerbForm=Inf	3	advcl	_	LemmaId=157146|OccId=4374139|Unsandhied=jīvase|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=10.186
+

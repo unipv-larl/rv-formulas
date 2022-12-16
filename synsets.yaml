@@ -1,0 +1,31 @@
+---
+  ask:
+    upos: VERB
+    lemma:
+      - yāc
+      - pracch
+  say:
+    upos: VERB
+    lemma:
+      - vad
+      - ah
+  call:
+    upos: VERB
+    lemmas:
+      - hvā
+      - vac
+      - brū
+  deity:
+    upos: any
+    lemma:
+      - deva
+      - indra
+      - agni
+      - varuṇa
+      - aśvin
+      - vāyu
+      - marut
+      - mitra
+      - savitṛ
+      - sūrya
+      - uṣas

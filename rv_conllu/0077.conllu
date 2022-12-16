@@ -1,0 +1,86 @@
+# text = abhi tvā gotamā girā jātavedo vicarṣaṇe
+# sent_id = 577906
+1	abhi	abhi	ADV	_	_	2	case	_	LemmaId=171289|OccId=4417996|Unsandhied=abhi|SyntaxAnnotation=silver|Ref=1.78
+2	tvā	tvad	PRON	_	Case=Acc|Number=Sing	0	root	_	LemmaId=37880|OccId=4417997|Unsandhied=tvā|SyntaxAnnotation=silver|Ref=1.78
+3	gotamā	gotama	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	0	root	_	LemmaId=125330|OccId=4417998|Unsandhied=gotamāḥ|SyntaxAnnotation=silver|Ref=1.78
+4	girā	gir	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	1	obl	_	LemmaId=123966|OccId=4417999|Unsandhied=girā|SyntaxAnnotation=silver|Ref=1.78
+5	jātavedo	jātavedas	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	0	root	_	LemmaId=88590|OccId=4418000|Unsandhied=jātavedaḥ|SyntaxAnnotation=silver|Ref=1.78
+6	vicarṣaṇe	vicarṣaṇi	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	5	amod	_	LemmaId=47274|OccId=4418001|Unsandhied=vicarṣaṇe|SyntaxAnnotation=silver|Ref=1.78
+
+# text = dyumnair abhi pra ṇonumaḥ
+# sent_id = 577907
+1	dyumnair	dyumna	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	4	obl	_	LemmaId=90306|OccId=4418002|Unsandhied=dyumnaiḥ|SyntaxAnnotation=silver|Ref=1.78
+2	abhi	abhi	ADV	_	_	4	advmod	_	LemmaId=171289|OccId=4418003|Unsandhied=abhi|SyntaxAnnotation=silver|Ref=1.78
+3	pra	pra	ADV	_	_	4	advmod	_	LemmaId=216277|OccId=4418004|Unsandhied=pra|SyntaxAnnotation=silver|Ref=1.78
+4	ṇonumaḥ	nonāv	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Plur	0	root	_	LemmaId=218872|OccId=4418037|Unsandhied=ṇonumaḥ|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.78
+
+# text = tam u tvā gotamo girā rāyaskāmo duvasyati
+# sent_id = 577908
+1	tam	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	3	det	_	LemmaId=37875|OccId=4418005|Unsandhied=tam|SyntaxAnnotation=silver|Ref=1.78
+2	u	u	PART	_	_	7	discourse	_	LemmaId=213150|OccId=4418048|Unsandhied=u|SyntaxAnnotation=silver|Ref=1.78
+3	tvā	tvad	PRON	_	Case=Acc|Number=Sing	7	obj	_	LemmaId=37880|OccId=4418006|Unsandhied=tvā|SyntaxAnnotation=silver|Ref=1.78
+4	gotamo	gotama	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	LemmaId=125330|OccId=4418007|Unsandhied=gotamaḥ|SyntaxAnnotation=silver|Ref=1.78
+5	girā	gir	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	7	obl	_	LemmaId=123966|OccId=4418008|Unsandhied=girā|SyntaxAnnotation=silver|Ref=1.78
+6	rāyaskāmo	rāyaskāma	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	LemmaId=79769|OccId=4418009|Unsandhied=rāyaskāmaḥ|SyntaxAnnotation=silver|Ref=1.78
+7	duvasyati	duvasy	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	0	root	_	LemmaId=218698|OccId=4418010|Unsandhied=duvasyati|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.78
+
+# text = dyumnair abhi pra ṇonumaḥ
+# sent_id = 577909
+1	dyumnair	dyumna	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	4	obl	_	LemmaId=90306|OccId=4418011|Unsandhied=dyumnaiḥ|SyntaxAnnotation=silver|Ref=1.78
+2	abhi	abhi	ADV	_	_	4	advmod	_	LemmaId=171289|OccId=4418012|Unsandhied=abhi|SyntaxAnnotation=silver|Ref=1.78
+3	pra	pra	ADV	_	_	4	advmod	_	LemmaId=216277|OccId=4418013|Unsandhied=pra|SyntaxAnnotation=silver|Ref=1.78
+4	ṇonumaḥ	nonāv	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Plur	0	root	_	LemmaId=218872|OccId=4418038|Unsandhied=ṇonumaḥ|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.78
+
+# text = tam u tvā vājasātamam aṅgirasvaddhavāmahe
+# sent_id = 577910
+1	tam	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	3	det	_	LemmaId=37875|OccId=4418014|Unsandhied=tam|SyntaxAnnotation=silver|Ref=1.78
+2	u	u	PART	_	_	7	discourse	_	LemmaId=213150|OccId=4418049|Unsandhied=u|SyntaxAnnotation=silver|Ref=1.78
+3	tvā	tvad	PRON	_	Case=Acc|Number=Sing	7	obj	_	LemmaId=37880|OccId=4418015|Unsandhied=tvā|SyntaxAnnotation=silver|Ref=1.78
+4-5	vājasātamam	_	_	_	_	_	_	_	_
+4	_	vāja	NOUN	_	Case=Cpd	5	obj	_	LemmaId=76319|OccId=4418016|Unsandhied=vāja|SyntaxAnnotation=silver|Ref=1.78
+5	_	sātama	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	3	acl	_	LemmaId=219273|OccId=4418017|Unsandhied=sātamam|SyntaxAnnotation=silver|Ref=1.78
+6-7	aṅgirasvaddhavāmahe	_	_	_	_	_	_	_	_
+6	_	aṅgirasvat	ADV	_	_	7	advmod	_	LemmaId=6267|OccId=4418046|Unsandhied=aṅgirasvat|SyntaxAnnotation=silver|Ref=1.78
+7	_	hvā	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Plur	0	root	_	LemmaId=157561|OccId=4418047|Unsandhied=havāmahe|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.78
+
+# text = dyumnair abhi pra ṇonumaḥ
+# sent_id = 577911
+1	dyumnair	dyumna	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	4	obl	_	LemmaId=90306|OccId=4418018|Unsandhied=dyumnaiḥ|SyntaxAnnotation=silver|Ref=1.78
+2	abhi	abhi	ADV	_	_	4	advmod	_	LemmaId=171289|OccId=4418019|Unsandhied=abhi|SyntaxAnnotation=silver|Ref=1.78
+3	pra	pra	ADV	_	_	4	advmod	_	LemmaId=216277|OccId=4418020|Unsandhied=pra|SyntaxAnnotation=silver|Ref=1.78
+4	ṇonumaḥ	nonāv	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Plur	0	root	_	LemmaId=218872|OccId=4418041|Unsandhied=ṇonumaḥ|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.78
+
+# text = tam u tvā vṛtrahantamaṃ yo dasyūṃr avadhūnuṣe
+# sent_id = 577912
+1	tam	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	3	det	_	LemmaId=37875|OccId=4418021|Unsandhied=tam|SyntaxAnnotation=silver|Ref=1.78
+2	u	u	PART	_	_	3	discourse	_	LemmaId=213150|OccId=4418050|Unsandhied=u|SyntaxAnnotation=silver|Ref=1.78
+3	tvā	tvad	PRON	_	Case=Acc|Number=Sing	0	root	_	LemmaId=37880|OccId=4418022|Unsandhied=tvā|SyntaxAnnotation=silver|Ref=1.78
+4-5	vṛtrahantamaṃ	_	_	_	_	_	_	_	_
+4	_	vṛtra	NOUN	_	Case=Cpd	5	obj	_	LemmaId=142152|OccId=4418023|Unsandhied=vṛtra|SyntaxAnnotation=silver|Ref=1.78
+5	_	hantama	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	3	acl	_	LemmaId=218731|OccId=4418024|Unsandhied=hantamam|Punctuation=comma|SyntaxAnnotation=silver|Ref=1.78
+6	yo	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	LemmaId=37877|OccId=4418025|Unsandhied=yaḥ|SyntaxAnnotation=silver|Ref=1.78
+7	dasyūṃr	dasyu	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	8	obj	_	LemmaId=146535|OccId=4418042|Unsandhied=dasyūṃr|SyntaxAnnotation=silver|Ref=1.78
+8	avadhūnuṣe	avadhū	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Sing	3	acl	_	LemmaId=159536|OccId=4418043|Unsandhied=avadhūnuṣe|Punctuation=comma|SyntaxAnnotation=silver|Ref=1.78
+
+# text = dyumnair abhi pra ṇonumaḥ
+# sent_id = 577913
+1	dyumnair	dyumna	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	4	obl	_	LemmaId=90306|OccId=4418026|Unsandhied=dyumnaiḥ|SyntaxAnnotation=silver|Ref=1.78
+2	abhi	abhi	ADV	_	_	4	advmod	_	LemmaId=171289|OccId=4418027|Unsandhied=abhi|SyntaxAnnotation=silver|Ref=1.78
+3	pra	pra	ADV	_	_	4	advmod	_	LemmaId=216277|OccId=4418028|Unsandhied=pra|SyntaxAnnotation=silver|Ref=1.78
+4	ṇonumaḥ	nonāv	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Plur	0	root	_	LemmaId=218872|OccId=4418044|Unsandhied=ṇonumaḥ|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.78
+
+# text = avocāma rahūgaṇā agnaye madhumad vacaḥ
+# sent_id = 577914
+1	avocāma	vac	VERB	_	Tense=Past|Mood=Ind|Formation=them|Person=1|Number=Plur	0	root	_	LemmaId=157264|OccId=4418029|Unsandhied=avocāma|SyntaxAnnotation=silver|Ref=1.78
+2	rahūgaṇā	rahūgaṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	LemmaId=69908|OccId=4418030|Unsandhied=rahūgaṇāḥ|SyntaxAnnotation=silver|Ref=1.78
+3	agnaye	agni	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	LemmaId=5705|OccId=4418031|Unsandhied=agnaye|SyntaxAnnotation=silver|Ref=1.78
+4	madhumad	madhumat	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	5	amod	_	LemmaId=35578|OccId=4418032|Unsandhied=madhumat|SyntaxAnnotation=silver|Ref=1.78
+5	vacaḥ	vacas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	obj	_	LemmaId=67891|OccId=4418033|Unsandhied=vacaḥ|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.78
+
+# text = dyumnair abhi pra ṇonumaḥ
+# sent_id = 577915
+1	dyumnair	dyumna	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	4	obl	_	LemmaId=90306|OccId=4418034|Unsandhied=dyumnaiḥ|SyntaxAnnotation=silver|Ref=1.78
+2	abhi	abhi	ADV	_	_	4	advmod	_	LemmaId=171289|OccId=4418035|Unsandhied=abhi|SyntaxAnnotation=silver|Ref=1.78
+3	pra	pra	ADV	_	_	4	advmod	_	LemmaId=216277|OccId=4418036|Unsandhied=pra|SyntaxAnnotation=silver|Ref=1.78
+4	ṇonumaḥ	nonāv	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Plur	0	root	_	LemmaId=218872|OccId=4418045|Unsandhied=ṇonumaḥ|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.78
+

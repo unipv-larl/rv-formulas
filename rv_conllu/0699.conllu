@@ -1,0 +1,189 @@
+# text = nahy anyam baﾱākaram marḍitāraṃ śatakrato
+# sent_id = 590992
+1	nahy	nahi	PART	_	_	4	advmod	_	LemmaId=32978|OccId=4739129|Unsandhied=nahi|SyntaxAnnotation=silver|Ref=8.80
+2	anyam	anya	PRON	_	Case=Acc|Gender=Masc|Number=Sing	5	det	_	LemmaId=164189|OccId=4739130|Unsandhied=anyam|SyntaxAnnotation=silver|Ref=8.80
+3-4	baﾱākaram	_	_	_	_	_	_	_	_
+3	_	baḍā	ADV	_	_	4	advmod	_	LemmaId=153484|OccId=4739253|Unsandhied=baḍā|SyntaxAnnotation=silver|Ref=8.80
+4	_	kṛ	VERB	_	Tense=Past|Mood=Ind|Formation=them|Person=1|Number=Sing	0	root	_	LemmaId=156168|OccId=4739254|Unsandhied=akaram|SyntaxAnnotation=silver|Ref=8.80
+5	marḍitāraṃ	marḍitṛ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	LemmaId=37112|OccId=4739131|Unsandhied=marḍitāram|SyntaxAnnotation=silver|Ref=8.80
+6	śatakrato	śatakratu	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	LemmaId=116441|OccId=4739132|Unsandhied=śatakrato|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.80
+
+# text = tvaṃ na indra mṛﾱaya
+# sent_id = 590993
+1	tvaṃ	tvad	PRON	_	Case=Nom|Number=Sing	4	nsubj	_	LemmaId=37880|OccId=4739133|Unsandhied=tvam|SyntaxAnnotation=silver|Ref=8.80
+2	na	mad	PRON	_	Case=Dat|Number=Plur	4	iobj	_	LemmaId=37879|OccId=4739134|Unsandhied=naḥ|SyntaxAnnotation=silver|Ref=8.80
+3	indra	indra	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	LemmaId=63463|OccId=4739135|Unsandhied=indra|SyntaxAnnotation=silver|Ref=8.80
+4	mṛﾱaya	mṛḍay	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	0	root	_	LemmaId=170904|OccId=4739240|Unsandhied=mṛḍaya|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.80
+
+# text = yo naḥ śaśvat purāvithāmṛdhro vājasātaye
+# sent_id = 590994
+1	yo	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	LemmaId=37877|OccId=4739136|Unsandhied=yaḥ|SyntaxAnnotation=silver|Ref=8.80
+2	naḥ	mad	PRON	_	Case=Acc|Number=Plur	5	obj	_	LemmaId=37879|OccId=4739137|Unsandhied=naḥ|SyntaxAnnotation=silver|Ref=8.80
+3	śaśvat	śaśvat	ADV	_	_	5	advmod	_	LemmaId=130428|OccId=4739138|Unsandhied=śaśvat|SyntaxAnnotation=silver|Ref=8.80
+4-6	purāvithāmṛdhro	_	_	_	_	_	_	_	_
+4	_	purā	ADV	_	_	5	advmod	_	LemmaId=143826|OccId=4739139|Unsandhied=purā|SyntaxAnnotation=silver|Ref=8.80
+5	_	av	VERB	_	Tense=Past|Mood=Ind|Person=2|Number=Sing	0	root	_	LemmaId=158270|OccId=4739140|Unsandhied=āvitha|SyntaxAnnotation=silver|Ref=8.80
+6	_	amṛdhra	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	acl	_	LemmaId=31726|OccId=4739141|Unsandhied=amṛdhraḥ|SyntaxAnnotation=silver|Ref=8.80
+7	vājasātaye	vājasāti	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	advcl	_	LemmaId=76368|OccId=4739142|Unsandhied=vājasātaye|Punctuation=comma|SyntaxAnnotation=silver|Ref=8.80
+
+# text = sa tvaṃ na indra mṛﾱaya
+# sent_id = 590995
+1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	2	acl	_	LemmaId=37875|OccId=4739143|Unsandhied=sa|SyntaxAnnotation=silver|Ref=8.80
+2	tvaṃ	tvad	PRON	_	Case=Nom|Number=Sing	5	nsubj	_	LemmaId=37880|OccId=4739144|Unsandhied=tvam|SyntaxAnnotation=silver|Ref=8.80
+3	na	mad	PRON	_	Case=Dat|Number=Plur	5	iobj	_	LemmaId=37879|OccId=4739145|Unsandhied=naḥ|SyntaxAnnotation=silver|Ref=8.80
+4	indra	indra	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	LemmaId=63463|OccId=4739146|Unsandhied=indra|SyntaxAnnotation=silver|Ref=8.80
+5	mṛﾱaya	mṛḍay	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	0	root	_	LemmaId=170904|OccId=4739241|Unsandhied=mṛḍaya|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.80
+
+# text = kim aṅga radhracodanaḥ sunvānasyāvited asi
+# sent_id = 590996
+1	kim	kim	ADV	_	_	4	advmod	_	LemmaId=209495|OccId=4739147|Unsandhied=kim|SyntaxAnnotation=silver|Ref=8.80
+2	aṅga	aṅga	PART	_	_	4	discourse	_	LemmaId=6140|OccId=4739148|Unsandhied=aṅga|SyntaxAnnotation=silver|Ref=8.80
+3-4	radhracodanaḥ	_	_	_	_	_	_	_	_
+3	_	radhra	ADJ	_	Case=Cpd	4	obj	_	LemmaId=66568|OccId=4739149|Unsandhied=radhra|SyntaxAnnotation=silver|Ref=8.80
+4	_	codana	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LemmaId=51990|OccId=4739150|Unsandhied=codanaḥ|SyntaxAnnotation=silver|Ref=8.80
+5-7	sunvānasyāvited	_	_	_	_	_	_	_	_
+5	_	su	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	6	nmod	_	LemmaId=157338|OccId=4739151|Unsandhied=sunvānasya|SyntaxAnnotation=silver|Ref=8.80
+6	_	av	VERB	_	Tense=Fut|Mood=Ind|Formation=peri|Person=3|Number=Sing	0	root	_	LemmaId=158270|OccId=4739152|Unsandhied=avitā|SyntaxAnnotation=silver|Ref=8.80
+7	_	id	PART	_	_	6	discourse	_	LemmaId=217401|OccId=4739153|Unsandhied=id|SyntaxAnnotation=silver|Ref=8.80
+8	asi	as	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Sing	6	cop	_	LemmaId=156122|OccId=4739154|Unsandhied=asi|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.80
+
+# text = kuvit sv indra ṇaḥ śakaḥ
+# sent_id = 590997
+1	kuvit	kuvid	ADV	_	_	5	discourse	_	LemmaId=2957|OccId=4739155|Unsandhied=kuvid|SyntaxAnnotation=silver|Ref=8.80
+2	sv	su	ADV	_	_	5	advmod	_	LemmaId=204329|OccId=4739156|Unsandhied=su|SyntaxAnnotation=silver|Ref=8.80
+3	indra	indra	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	LemmaId=63463|OccId=4739157|Unsandhied=indra|SyntaxAnnotation=silver|Ref=8.80
+4	ṇaḥ	mad	PRON	_	Case=Acc|Number=Plur	5	obj	_	LemmaId=37879|OccId=4739242|Unsandhied=naḥ|SyntaxAnnotation=silver|Ref=8.80
+5	śakaḥ	śak	VERB	_	Tense=Past|Mood=Sub|Person=2|Number=Sing	0	root	_	LemmaId=158120|OccId=4739158|Unsandhied=śakaḥ|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.80
+
+# text = indra pra ṇo ratham ava paścāc cit santam adrivaḥ
+# sent_id = 590998
+1	indra	indra	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	LemmaId=63463|OccId=4739159|Unsandhied=indra|SyntaxAnnotation=silver|Ref=8.80
+2	pra	pra	ADV	_	_	5	advmod	_	LemmaId=216277|OccId=4739160|Unsandhied=pra|SyntaxAnnotation=silver|Ref=8.80
+3	ṇo	mad	PRON	_	Case=Gen|Number=Plur	4	nmod	_	LemmaId=37879|OccId=4739243|Unsandhied=naḥ|SyntaxAnnotation=silver|Ref=8.80
+4	ratham	ratha	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	LemmaId=66339|OccId=4739161|Unsandhied=ratham|SyntaxAnnotation=silver|Ref=8.80
+5	ava	av	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	0	root	_	LemmaId=158270|OccId=4739162|Unsandhied=ava|SyntaxAnnotation=silver|Ref=8.80
+6	paścāc	paścāt	ADV	_	_	5	advmod	_	LemmaId=92800|OccId=4739163|Unsandhied=paścāt|SyntaxAnnotation=silver|Ref=8.80
+7	cit	cit	PART	_	_	6	discourse	_	LemmaId=217142|OccId=4739164|Unsandhied=cit|SyntaxAnnotation=silver|Ref=8.80
+8	santam	as	VERB	_	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	6	cop	_	LemmaId=156122|OccId=4739165|Unsandhied=santam|SyntaxAnnotation=silver|Ref=8.80
+9	adrivaḥ	adrivat	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	LemmaId=7726|OccId=4739166|Unsandhied=adrivas|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.80
+
+# text = purastād enam me kṛdhi
+# sent_id = 590999
+1	purastād	purastāt	ADV	_	_	4	xcomp	_	LemmaId=143801|OccId=4739167|Unsandhied=purastāt|SyntaxAnnotation=silver|Ref=8.80
+2	enam	enad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	LemmaId=166401|OccId=4739168|Unsandhied=enam|SyntaxAnnotation=silver|Ref=8.80
+3	me	mad	PRON	_	Case=Gen|Number=Sing	2	nmod	_	LemmaId=37879|OccId=4739169|Unsandhied=me|SyntaxAnnotation=silver|Ref=8.80
+4	kṛdhi	kṛ	VERB	_	Tense=Past|Mood=Imp|Person=2|Number=Sing	0	root	_	LemmaId=156168|OccId=4739170|Unsandhied=kṛdhi|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.80
+
+# text = hanta u nu kim āsase hanta u nu kim āsase prathamam naḥ ratham kṛdhi
+# sent_id = 591000
+1	_	hanta	ADV	_	_	5	discourse	_	LemmaId=108511|OccId=4739244|Unsandhied=hanta|SyntaxAnnotation=silver|Ref=8.80
+2	_	u	PART	_	_	5	discourse	_	LemmaId=213150|OccId=4739245|Unsandhied=u|SyntaxAnnotation=silver|Ref=8.80
+3	nu	nu	PART	_	_	5	discourse	_	LemmaId=170168|OccId=4739171|Unsandhied=nu|SyntaxAnnotation=silver|Ref=8.80
+4	kim	kim	ADV	_	_	5	discourse	_	LemmaId=209495|OccId=4739172|Unsandhied=kim|SyntaxAnnotation=silver|Ref=8.80
+5	āsase	ās	VERB	_	Tense=Pres|Mood=Sub|Person=2|Number=Sing	0	root	_	LemmaId=156126|OccId=4739173|Unsandhied=āsase|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.80
+6	prathamaṃ	prathama	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	9	xcomp	_	LemmaId=140448|OccId=4739174|Unsandhied=prathamam|SyntaxAnnotation=silver|Ref=8.80
+7	no	mad	PRON	_	Case=Gen|Number=Plur	8	nmod	_	LemmaId=37879|OccId=4739175|Unsandhied=naḥ|SyntaxAnnotation=silver|Ref=8.80
+8	rathaṃ	ratha	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	LemmaId=66339|OccId=4739176|Unsandhied=ratham|SyntaxAnnotation=silver|Ref=8.80
+9	kṛdhi	kṛ	VERB	_	Tense=Past|Mood=Imp|Person=2|Number=Sing	5	enj	_	LemmaId=156168|OccId=4739177|Unsandhied=kṛdhi|SyntaxAnnotation=silver|Ref=8.80
+
+# text = upamaṃ vājayu śravaḥ
+# sent_id = 591001
+1	upamaṃ	upama	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	3	amod	_	LemmaId=45295|OccId=4739178|Unsandhied=upamam|SyntaxAnnotation=silver|Ref=8.80
+2	vājayu	vājayu	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	3	amod	_	LemmaId=76377|OccId=4739179|Unsandhied=vājayu|SyntaxAnnotation=silver|Ref=8.80
+3	śravaḥ	śravas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	0	root	_	LemmaId=40324|OccId=4739180|Unsandhied=śravaḥ|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.80
+
+# text = ava naḥ vājayum ratham ava naḥ vājayum ratham te kim id pari
+# sent_id = 591002
+1	avā	av	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	0	root	_	LemmaId=158270|OccId=4739246|Unsandhied=ava|SyntaxAnnotation=silver|Ref=8.80
+2	no	mad	PRON	_	Case=Gen|Number=Plur	4	nmod	_	LemmaId=37879|OccId=4739181|Unsandhied=naḥ|SyntaxAnnotation=silver|Ref=8.80
+3	vājayuṃ	vājayu	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	LemmaId=76377|OccId=4739182|Unsandhied=vājayum|SyntaxAnnotation=silver|Ref=8.80
+4	rathaṃ	ratha	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	LemmaId=66339|OccId=4739183|Unsandhied=ratham|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.80
+5	te	tvad	PRON	_	Case=Dat|Number=Sing	1	enj	_	LemmaId=37880|OccId=4739185|Unsandhied=te|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.80
+6	kim	ka	PRON	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	LemmaId=37878|OccId=4739186|Unsandhied=kim|SyntaxAnnotation=silver|Ref=8.80
+7	it	id	PART	_	_	6	discourse	_	LemmaId=217401|OccId=4739187|Unsandhied=id|SyntaxAnnotation=silver|Ref=8.80
+8	pari	pari	ADV	_	_	6	discourse	_	LemmaId=170864|OccId=4739188|Unsandhied=pari|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.80
+
+# text = asmān su jigyuṣas kṛdhi
+# sent_id = 591003
+1	asmān	mad	PRON	_	Case=Acc|Number=Plur	4	obj	_	LemmaId=37879|OccId=4739189|Unsandhied=asmān|SyntaxAnnotation=silver|Ref=8.80
+2	su	su	ADV	_	_	3	advmod	_	LemmaId=204329|OccId=4739190|Unsandhied=su|SyntaxAnnotation=silver|Ref=8.80
+3	jigyuṣas	ji	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	xcomp	_	LemmaId=156588|OccId=4739191|Unsandhied=jigyuṣaḥ|SyntaxAnnotation=silver|Ref=8.80
+4	kṛdhi	kṛ	VERB	_	Tense=Past|Mood=Imp|Person=2|Number=Sing	0	root	_	LemmaId=156168|OccId=4739192|Unsandhied=kṛdhi|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.80
+
+# text = indra dṛhyasva indra dṛhyasva pūḥ asi bhadrā te eti niṣkṛtam
+# sent_id = 591004
+1	indra	indra	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	LemmaId=63463|OccId=4739193|Unsandhied=indra|SyntaxAnnotation=silver|Ref=8.80
+2	dṛhyasva	dṛh	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	0	root	_	LemmaId=158229|OccId=4739247|Unsandhied=dṛhyasva|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.80
+3	pūr	pur	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	enj	_	LemmaId=144597|OccId=4739194|Unsandhied=pūḥ|SyntaxAnnotation=silver|Ref=8.80
+4	asi	as	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Sing	3	cop	_	LemmaId=156122|OccId=4739195|Unsandhied=asi|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.80
+5	bhadrā	bhadra	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	7	advcl	_	LemmaId=48731|OccId=4739196|Unsandhied=bhadrā|SyntaxAnnotation=silver|Ref=8.80
+6	ta	tvad	PRON	_	Case=Gen|Number=Sing	8	nmod	_	LemmaId=37880|OccId=4739197|Unsandhied=te|SyntaxAnnotation=silver|Ref=8.80
+7	eti	i	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	2	enj	_	LemmaId=156127|OccId=4739198|Unsandhied=eti|SyntaxAnnotation=silver|Ref=8.80
+8	niṣkṛtam	niṣkṛta	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	LemmaId=28314|OccId=4739199|Unsandhied=niṣkṛtam|SyntaxAnnotation=silver|Ref=8.80
+
+# text = iyaṃ dhīr ṛtviyāvatī
+# sent_id = 591005
+1	iyaṃ	idam	PRON	_	Case=Nom|Gender=Fem|Number=Sing	2	det	_	LemmaId=37876|OccId=4739200|Unsandhied=iyam|SyntaxAnnotation=silver|Ref=8.80
+2	dhīr	dhī	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	LemmaId=42661|OccId=4739201|Unsandhied=dhīḥ|SyntaxAnnotation=silver|Ref=8.80
+3	ṛtviyāvatī	ṛtviyāvat	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	acl	_	LemmaId=38782|OccId=4739202|Unsandhied=ṛtviyāvatī|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.80
+
+# text = mā sīm avadye ā bhāk mā sīm avadye ā bhāk urvī kāṣṭhā hitam dhanam
+# sent_id = 591006
+1	mā	mā	PART	_	_	5	advmod	_	LemmaId=170120|OccId=4739203|Unsandhied=mā|SyntaxAnnotation=silver|Ref=8.80
+2	sīm	sīm	ADV	_	_	5	obj	_	LemmaId=106515|OccId=4739204|Unsandhied=sīm|SyntaxAnnotation=silver|Ref=8.80
+3	avadya	avadya	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	5	obl	_	LemmaId=54189|OccId=4739205|Unsandhied=avadye|SyntaxAnnotation=silver|Ref=8.80
+4	ā	ā	ADV	_	_	5	advmod	_	LemmaId=213041|OccId=4739251|Unsandhied=ā|SyntaxAnnotation=silver|Ref=8.80
+5	bhāg	bhaj	VERB	_	Tense=Past|Mood=Jus|Person=2|Number=Sing	0	root	_	LemmaId=157938|OccId=4739206|Unsandhied=bhāk|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.80
+6	urvī	uru	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	5	enj	_	LemmaId=37940|OccId=4739207|Unsandhied=urvī|SyntaxAnnotation=silver|Ref=8.80
+7	kāṣṭhā	kāṣṭhā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	LemmaId=23192|OccId=4739208|Unsandhied=kāṣṭhā|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.80
+8	hitaṃ	dhā	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	5	enj	_	LemmaId=157327|OccId=4739209|Unsandhied=hitam|SyntaxAnnotation=silver|Ref=8.80
+9	dhanam	dhana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	LemmaId=91589|OccId=4739210|Unsandhied=dhanam|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.80
+
+# text = apāvṛktā aratnayaḥ
+# sent_id = 591007
+1	apāvṛktā	apāvṛj	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	LemmaId=221119|OccId=4739248|Unsandhied=apāvṛktāḥ|SyntaxAnnotation=silver|Ref=8.80
+2	aratnayaḥ	aratni	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	LemmaId=32580|OccId=4739211|Unsandhied=aratnayaḥ|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.80
+
+# text = turīyaṃ nāma yajñiyaṃ yadā karas tad uśmasi
+# sent_id = 591008
+1	turīyaṃ	turīya	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	2	amod	_	LemmaId=82873|OccId=4739212|Unsandhied=turīyam|SyntaxAnnotation=silver|Ref=8.80
+2	nāma	nāman	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	LemmaId=33597|OccId=4739213|Unsandhied=nāma|SyntaxAnnotation=silver|Ref=8.80
+3	yajñiyaṃ	yajñiya	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	2	amod	_	LemmaId=73160|OccId=4739214|Unsandhied=yajñiyam|SyntaxAnnotation=silver|Ref=8.80
+4	yadā	yadā	SCONJ	_	_	5	mark	_	LemmaId=73645|OccId=4739215|Unsandhied=yadā|SyntaxAnnotation=silver|Ref=8.80
+5	karas	kṛ	VERB	_	Tense=Past|Mood=Sub|Person=2|Number=Sing	7	advcl	_	LemmaId=156168|OccId=4739216|Unsandhied=karaḥ|Punctuation=comma|SyntaxAnnotation=silver|Ref=8.80
+6	tad	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	LemmaId=37875|OccId=4739217|Unsandhied=tat|SyntaxAnnotation=silver|Ref=8.80
+7	uśmasi	vaś	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Plur	0	root	_	LemmaId=158956|OccId=4739218|Unsandhied=uśmasi|Punctuation=comma|SyntaxAnnotation=silver|Ref=8.80
+
+# text = ād it patir na ohase
+# sent_id = 591009
+1	ād	āt	ADV	_	_	5	advmod	_	LemmaId=218741|OccId=4739219|Unsandhied=āt|SyntaxAnnotation=silver|Ref=8.80
+2	it	id	PART	_	_	5	discourse	_	LemmaId=217401|OccId=4739220|Unsandhied=id|SyntaxAnnotation=silver|Ref=8.80
+3	patir	pati	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	LemmaId=163749|OccId=4739221|Unsandhied=patiḥ|SyntaxAnnotation=silver|Ref=8.80
+4	na	mad	PRON	_	Case=Gen|Number=Plur	3	nmod	_	LemmaId=37879|OccId=4739222|Unsandhied=naḥ|SyntaxAnnotation=silver|Ref=8.80
+5	ohase	ūh	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Sing	0	root	_	LemmaId=156146|OccId=4739223|Unsandhied=ohase|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.80
+
+# text = avīvṛdhat vaḥ amṛtāḥ avīvṛdhat vaḥ amṛtāḥ amandīt ekadyūḥ devāḥ uta yāḥ ca devīḥ
+# sent_id = 591010
+1	avīvṛdhad	vṛdh	VERB	_	Tense=Past|Mood=Ind|Formation=red|Person=3|Number=Sing	0	root	_	LemmaId=157334|OccId=4739224|Unsandhied=avīvṛdhat|SyntaxAnnotation=silver|Ref=8.80
+2	vo	tvad	PRON	_	Case=Acc|Number=Plur	1	obj	_	LemmaId=37880|OccId=4739225|Unsandhied=vaḥ|SyntaxAnnotation=silver|Ref=8.80
+3	amṛtā	amṛta	ADJ	_	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	LemmaId=31884|OccId=4739226|Unsandhied=amṛtāḥ|SyntaxAnnotation=silver|Ref=8.80
+4	amandīd	mand	VERB	_	Tense=Past|Mood=Ind|Formation=is|Person=3|Number=Sing	1	enj	_	LemmaId=219193|OccId=4739249|Unsandhied=amandīt|SyntaxAnnotation=silver|Ref=8.80
+5	ekadyūr	ekadyū	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LemmaId=221120|OccId=4739250|Unsandhied=ekadyūḥ|SyntaxAnnotation=silver|Ref=8.80
+6	devā	deva	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	4	vocative	_	LemmaId=86559|OccId=4739227|Unsandhied=devāḥ|Punctuation=comma|SyntaxAnnotation=silver|Ref=8.80
+7	uta	uta	CCONJ	_	_	10	cc	_	LemmaId=55443|OccId=4739228|Unsandhied=uta|SyntaxAnnotation=silver|Ref=8.80
+8	yāś	yad	PRON	_	Case=Nom|Gender=Fem|Number=Plur	10	nsubj	_	LemmaId=37877|OccId=4739229|Unsandhied=yāḥ|SyntaxAnnotation=silver|Ref=8.80
+9	ca	ca	CCONJ	_	_	8	cc	_	LemmaId=157144|OccId=4739230|Unsandhied=ca|SyntaxAnnotation=silver|Ref=8.80
+10	devīḥ	devī	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	conj	_	LemmaId=87156|OccId=4739231|Unsandhied=devīḥ|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.80
+
+# text = tasmai u rādhaḥ kṛṇuta praśastam tasmai u rādhaḥ kṛṇuta praśastam prātar makṣū dhiyāvasuḥ jagamyāt
+# sent_id = 591011
+1	tasmā	tad	PRON	_	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	LemmaId=37875|OccId=4739232|Unsandhied=tasmai|SyntaxAnnotation=silver|Ref=8.80
+2	u	u	PART	_	_	4	discourse	_	LemmaId=213150|OccId=4739252|Unsandhied=u|SyntaxAnnotation=silver|Ref=8.80
+3	rādhaḥ	rādhas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	LemmaId=70725|OccId=4739233|Unsandhied=rādhaḥ|SyntaxAnnotation=silver|Ref=8.80
+4	kṛṇuta	kṛ	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Plur	0	root	_	LemmaId=156168|OccId=4745648|Unsandhied=kṛṇuta|SyntaxAnnotation=silver|Ref=8.80
+5	praśastam	praśaṃs	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	4	obj	_	LemmaId=163082|OccId=4739235|Unsandhied=praśastam|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.80
+6	prātar	prātar	ADV	_	_	9	advmod	_	LemmaId=152151|OccId=4739236|Unsandhied=prātar|SyntaxAnnotation=silver|Ref=8.80
+7	makṣū	makṣū	ADV	_	_	9	advmod	_	LemmaId=26548|OccId=4739237|Unsandhied=makṣū|SyntaxAnnotation=silver|Ref=8.80
+8	dhiyāvasur	dhiyāvasu	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	9	advcl	_	LemmaId=42658|OccId=4739238|Unsandhied=dhiyāvasuḥ|SyntaxAnnotation=silver|Ref=8.80
+9	jagamyāt	gam	VERB	_	Tense=Past|Mood=Opt|Person=3|Number=Sing	4	enj	_	LemmaId=156214|OccId=4739239|Unsandhied=jagamyāt|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=8.80
+

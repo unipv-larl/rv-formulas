@@ -1,0 +1,65 @@
+# text = tarat sa tarat sa mandī dhāvati dhārā sutasya andhasaḥ
+# sent_id = 592364
+1	tarat	tṛ	VERB	_	Tense=Pres|Mood=Jus|Person=3|Number=Sing	0	root	_	LemmaId=157237|OccId=4657612|Unsandhied=tarat|SyntaxAnnotation=silver|Ref=9.58
+2	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LemmaId=37875|OccId=4657613|Unsandhied=sa|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=9.58
+3	mandī	mandin	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LemmaId=36615|OccId=4657614|Unsandhied=mandī|SyntaxAnnotation=silver|Ref=9.58
+4	dhāvati	dhāv	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	1	enj	_	LemmaId=157289|OccId=4657615|Unsandhied=dhāvati|SyntaxAnnotation=silver|Ref=9.58
+5	dhārā	dhārā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	LemmaId=42551|OccId=4657616|Unsandhied=dhārā|SyntaxAnnotation=silver|Ref=9.58
+6	_	su	VERB	_	Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part	7	amod	_	LemmaId=157338|OccId=4657617|Unsandhied=sutasya|SyntaxAnnotation=silver|Ref=9.58
+7	_	andhas	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	LemmaId=20369|OccId=4657618|Unsandhied=andhasaḥ|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=9.58
+
+# text = tarat sa tarat sa mandī dhāvati
+# sent_id = 592365
+1	tarat	tṛ	VERB	_	Tense=Pres|Mood=Jus|Person=3|Number=Sing	0	root	_	LemmaId=157237|OccId=4657619|Unsandhied=tarat|SyntaxAnnotation=silver|Ref=9.58
+2	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LemmaId=37875|OccId=4657620|Unsandhied=sa|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=9.58
+3	mandī	mandin	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LemmaId=36615|OccId=4657621|Unsandhied=mandī|WordSem=73132|SyntaxAnnotation=silver|Ref=9.58
+4	dhāvati	dhāv	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	1	enj	_	LemmaId=157289|OccId=4657622|Unsandhied=dhāvati|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=9.58
+
+# text = usrā veda vasūnām martasya devy avasaḥ
+# sent_id = 592366
+1	usrā	usrā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	LemmaId=38319|OccId=4657623|Unsandhied=usrā|SyntaxAnnotation=silver|Ref=9.58
+2	veda	vid	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	0	root	_	LemmaId=158058|OccId=4657624|Unsandhied=veda|SyntaxAnnotation=silver|Ref=9.58
+3	vasūnām	vasu	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	2	obj	_	LemmaId=75316|OccId=4657625|Unsandhied=vasūnām|SyntaxAnnotation=silver|Ref=9.58
+4	martasya	marta	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	conj	_	LemmaId=37113|OccId=4657626|Unsandhied=martasya|SyntaxAnnotation=silver|Ref=9.58
+5	devy	devī	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	appos	_	LemmaId=87156|OccId=4657627|Unsandhied=devī|SyntaxAnnotation=silver|Ref=9.58
+6	avasaḥ	avas	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	2	obj	_	LemmaId=54634|OccId=4657628|Unsandhied=avasaḥ|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=9.58
+
+# text = tarat sa tarat sa mandī dhāvati
+# sent_id = 592367
+1	tarat	tṛ	VERB	_	Tense=Pres|Mood=Jus|Person=3|Number=Sing	0	root	_	LemmaId=157237|OccId=4657629|Unsandhied=tarat|SyntaxAnnotation=silver|Ref=9.58
+2	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LemmaId=37875|OccId=4657630|Unsandhied=sa|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=9.58
+3	mandī	mandin	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LemmaId=36615|OccId=4657631|Unsandhied=mandī|SyntaxAnnotation=silver|Ref=9.58
+4	dhāvati	dhāv	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	1	enj	_	LemmaId=157289|OccId=4657632|Unsandhied=dhāvati|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=9.58
+
+# text = dhvasrayoḥ puruṣantyor ā sahasrāṇi dadmahe
+# sent_id = 592368
+1	dhvasrayoḥ	dhvasra	ADJ	_	Case=Gen|Gender=Masc|Number=Dual	2	amod	_	LemmaId=218788|OccId=4657633|Unsandhied=dhvasrayoḥ|SyntaxAnnotation=silver|Ref=9.58
+2	puruṣantyor	puruṣanti	NOUN	_	Case=Gen|Gender=Masc|Number=Dual	4	nmod	_	LemmaId=144056|OccId=4657634|Unsandhied=puruṣantyoḥ|SyntaxAnnotation=silver|Ref=9.58
+3	ā	ā	ADV	_	_	5	advmod	_	LemmaId=213041|OccId=4657651|Unsandhied=ā|SyntaxAnnotation=silver|Ref=9.58
+4	sahasrāṇi	sahasra	NUM	_	Case=Acc|Gender=Neut|Number=Plur	5	obj	_	LemmaId=111378|OccId=4657635|Unsandhied=sahasrāṇi|SyntaxAnnotation=silver|Ref=9.58
+5	dadmahe	dā	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Plur	0	root	_	LemmaId=157372|OccId=4657636|Unsandhied=dadmahe|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=9.58
+
+# text = tarat sa tarat sa mandī dhāvati
+# sent_id = 592369
+1	tarat	tṛ	VERB	_	Tense=Pres|Mood=Jus|Person=3|Number=Sing	0	root	_	LemmaId=157237|OccId=4657637|Unsandhied=tarat|SyntaxAnnotation=silver|Ref=9.58
+2	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LemmaId=37875|OccId=4657638|Unsandhied=sa|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=9.58
+3	mandī	mandin	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LemmaId=36615|OccId=4657639|Unsandhied=mandī|SyntaxAnnotation=silver|Ref=9.58
+4	dhāvati	dhāv	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	1	enj	_	LemmaId=157289|OccId=4657640|Unsandhied=dhāvati|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=9.58
+
+# text = ā yayos triṃśataṃ tanā sahasrāṇi ca dadmahe
+# sent_id = 592370
+1	ā	ā	ADV	_	_	7	advmod	_	LemmaId=213041|OccId=4657652|Unsandhied=ā|SyntaxAnnotation=silver|Ref=9.58
+2	yayos	yad	PRON	_	Case=Gen|Gender=Masc|Number=Dual	3	nmod	_	LemmaId=37877|OccId=4657641|Unsandhied=yayoḥ|SyntaxAnnotation=silver|Ref=9.58
+3	triṃśataṃ	triṃśat	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	LemmaId=84368|OccId=4657642|Unsandhied=triṃśatam|SyntaxAnnotation=silver|Ref=9.58
+4	tanā	tan	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	7	obl	_	LemmaId=218819|OccId=4657643|Unsandhied=tanā|SyntaxAnnotation=silver|Ref=9.58
+5	sahasrāṇi	sahasra	NUM	_	Case=Acc|Gender=Neut|Number=Plur	3	conj	_	LemmaId=111378|OccId=4657644|Unsandhied=sahasrāṇi|SyntaxAnnotation=silver|Ref=9.58
+6	ca	ca	CCONJ	_	_	5	cc	_	LemmaId=157144|OccId=4657645|Unsandhied=ca|SyntaxAnnotation=silver|Ref=9.58
+7	dadmahe	dā	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Plur	0	root	_	LemmaId=157372|OccId=4657646|Unsandhied=dadmahe|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=9.58
+
+# text = tarat sa tarat sa mandī dhāvati
+# sent_id = 592371
+1	tarat	tṛ	VERB	_	Tense=Pres|Mood=Jus|Person=3|Number=Sing	0	root	_	LemmaId=157237|OccId=4657647|Unsandhied=tarat|SyntaxAnnotation=silver|Ref=9.58
+2	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LemmaId=37875|OccId=4657648|Unsandhied=sa|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=9.58
+3	mandī	mandin	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LemmaId=36615|OccId=4657649|Unsandhied=mandī|SyntaxAnnotation=silver|Ref=9.58
+4	dhāvati	dhāv	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	1	enj	_	LemmaId=157289|OccId=4657650|Unsandhied=dhāvati|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=9.58
+

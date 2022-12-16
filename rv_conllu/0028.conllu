@@ -1,0 +1,162 @@
+# text = yacciddhi satya somapā anāśastā iva smasi
+# sent_id = 576889
+1-3	yacciddhi	_	_	_	_	_	_	_	_
+1	_	yat	SCONJ	_	_	8	mark	_	LemmaId=73227|OccId=4384797|Unsandhied=yat|SyntaxAnnotation=silver|Ref=1.29
+2	_	cit	PART	_	_	1	discourse	_	LemmaId=217142|OccId=4384798|Unsandhied=cit|SyntaxAnnotation=silver|Ref=1.29
+3	_	hi	PART	_	_	8	discourse	_	LemmaId=109879|OccId=4384799|Unsandhied=hi|SyntaxAnnotation=silver|Ref=1.29
+4	satya	satya	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	8	vocative	_	LemmaId=16630|OccId=4384800|Unsandhied=satya|SyntaxAnnotation=silver|Ref=1.29
+5-6	somapā	_	_	_	_	_	_	_	_
+5	_	soma	NOUN	_	Case=Cpd	6	obj	_	LemmaId=100106|OccId=4384801|Unsandhied=soma|SyntaxAnnotation=silver|Ref=1.29
+6	_	pā	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	8	vocative	_	LemmaId=218969|OccId=4384802|Unsandhied=pāḥ|SyntaxAnnotation=silver|Ref=1.29
+7-8	anāśastā	_	_	_	_	_	_	_	_
+7	_	an	PART	_	_	8	advmod	_	LemmaId=213304|OccId=4384903|Unsandhied=an|WordSem=96750|SyntaxAnnotation=silver|Ref=1.29
+8	_	āśaṃs	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	LemmaId=159970|OccId=4384904|Unsandhied=āśastāḥ|WordSem=92449|SyntaxAnnotation=silver|Ref=1.29
+9	iva	iva	PART	_	_	8	discourse	_	LemmaId=63807|OccId=4384803|Unsandhied=iva|SyntaxAnnotation=silver|Ref=1.29
+10	smasi	as	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Plur	8	cop	_	LemmaId=156122|OccId=4384873|Unsandhied=smasi|Punctuation=comma|SyntaxAnnotation=silver|Ref=1.29
+
+# text = ā tū na indra śaṃsaya goṣv aśveṣu śubhriṣu sahasreṣu tuvīmagha
+# sent_id = 576890
+1	ā	ā	ADV	_	_	5	advmod	_	LemmaId=213041|OccId=4384905|Unsandhied=ā|SyntaxAnnotation=silver|Ref=1.29
+2	tū	tu	CCONJ	_	_	5	discourse	_	LemmaId=82701|OccId=4384874|Unsandhied=tū|SyntaxAnnotation=silver|Ref=1.29
+3	na	mad	PRON	_	Case=Dat|Number=Plur	5	iobj	_	LemmaId=37879|OccId=4384804|Unsandhied=naḥ|SyntaxAnnotation=silver|Ref=1.29
+4	indra	indra	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	LemmaId=63463|OccId=4384805|Unsandhied=indra|SyntaxAnnotation=silver|Ref=1.29
+5	śaṃsaya	śaṃsay	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	0	root	_	LemmaId=159971|OccId=4384875|Unsandhied=śaṃsaya|SyntaxAnnotation=silver|Ref=1.29
+6	goṣv	go	NOUN	_	Case=Loc|Number=Plur	5	obl	_	LemmaId=166386|OccId=4384806|Unsandhied=goṣu|SyntaxAnnotation=silver|Ref=1.29
+7	aśveṣu	aśva	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	6	conj	_	LemmaId=60200|OccId=4384807|Unsandhied=aśveṣu|SyntaxAnnotation=silver|Ref=1.29
+8	śubhriṣu	śubhri	ADJ	_	Case=Loc|Gender=Masc|Number=Plur	6	conj	_	LemmaId=127133|OccId=4384808|Unsandhied=śubhriṣu|SyntaxAnnotation=silver|Ref=1.29
+9	sahasreṣu	sahasra	NUM	_	Case=Loc|Gender=Neut|Number=Plur	6	conj	_	LemmaId=111378|OccId=4384809|Unsandhied=sahasreṣu|SyntaxAnnotation=silver|Ref=1.29
+10	tuvīmagha	tuvīmagha	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	LemmaId=219309|OccId=4384876|Unsandhied=tuvīmagha|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.29
+
+# text = śiprin vājānām pate śacīvas tava daṃsanā
+# sent_id = 576891
+1	śiprin	śiprin	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	3	amod	_	LemmaId=131771|OccId=4384810|Unsandhied=śiprin|SyntaxAnnotation=silver|Ref=1.29
+2	vājānām	vāja	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	LemmaId=76319|OccId=4384811|Unsandhied=vājānām|SyntaxAnnotation=silver|Ref=1.29
+3	pate	pati	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	LemmaId=163749|OccId=4384812|Unsandhied=pate|SyntaxAnnotation=silver|Ref=1.29
+4	śacīvas	śacīvat	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	3	conj	_	LemmaId=115196|OccId=4384813|Unsandhied=śacīvas|SyntaxAnnotation=silver|Ref=1.29
+5	tava	tvad	PRON	_	Case=Gen|Number=Sing	0	root	_	LemmaId=37880|OccId=4384814|Unsandhied=tava|SyntaxAnnotation=silver|Ref=1.29
+6	daṃsanā	daṃsanā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	LemmaId=100560|OccId=4384815|Unsandhied=daṃsanā|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.29
+
+# text = ā tū na indra śaṃsaya goṣv aśveṣu śubhriṣu sahasreṣu tuvīmagha
+# sent_id = 576892
+1	ā	ā	ADV	_	_	5	advmod	_	LemmaId=213041|OccId=4384906|Unsandhied=ā|SyntaxAnnotation=silver|Ref=1.29
+2	tū	tu	CCONJ	_	_	5	discourse	_	LemmaId=82701|OccId=4384877|Unsandhied=tū|SyntaxAnnotation=silver|Ref=1.29
+3	na	mad	PRON	_	Case=Dat|Number=Plur	5	iobj	_	LemmaId=37879|OccId=4384816|Unsandhied=naḥ|SyntaxAnnotation=silver|Ref=1.29
+4	indra	indra	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	LemmaId=63463|OccId=4384817|Unsandhied=indra|SyntaxAnnotation=silver|Ref=1.29
+5	śaṃsaya	śaṃsay	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	0	root	_	LemmaId=159971|OccId=4384878|Unsandhied=śaṃsaya|SyntaxAnnotation=silver|Ref=1.29
+6	goṣv	go	NOUN	_	Case=Loc|Number=Plur	5	obl	_	LemmaId=166386|OccId=4384818|Unsandhied=goṣu|SyntaxAnnotation=silver|Ref=1.29
+7	aśveṣu	aśva	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	6	conj	_	LemmaId=60200|OccId=4384819|Unsandhied=aśveṣu|SyntaxAnnotation=silver|Ref=1.29
+8	śubhriṣu	śubhri	ADJ	_	Case=Loc|Gender=Masc|Number=Plur	6	conj	_	LemmaId=127133|OccId=4384820|Unsandhied=śubhriṣu|SyntaxAnnotation=silver|Ref=1.29
+9	sahasreṣu	sahasra	NUM	_	Case=Loc|Gender=Neut|Number=Plur	6	conj	_	LemmaId=111378|OccId=4384821|Unsandhied=sahasreṣu|SyntaxAnnotation=silver|Ref=1.29
+10	tuvīmagha	tuvīmagha	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	LemmaId=219309|OccId=4384879|Unsandhied=tuvīmagha|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.29
+
+# text = ni ṣvāpayā mithūdṛśā ni ṣvāpayā mithūdṛśā sastām a budhyamāne
+# sent_id = 576893
+1	ni	ni	ADV	_	_	2	advmod	_	LemmaId=216732|OccId=4384822|Unsandhied=ni|SyntaxAnnotation=silver|Ref=1.29
+2	ṣvāpayā	svāpay	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	0	root	_	LemmaId=169433|OccId=4384880|Unsandhied=ṣvāpayā|SyntaxAnnotation=silver|Ref=1.29
+3	mithūdṛśā	mithūdṛś	ADJ	_	Case=Acc|Gender=Fem|Number=Dual	2	obj	_	LemmaId=219310|OccId=4384881|Unsandhied=mithūdṛśā|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.29
+4	sastām	sas	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Dual	2	enj	_	LemmaId=219311|OccId=4384907|Unsandhied=sastām|SyntaxAnnotation=silver|Ref=1.29
+5	_	a	PART	_	_	6	advmod	_	LemmaId=213048|OccId=4384882|Unsandhied=a|SyntaxAnnotation=silver|Ref=1.29
+6	_	budh	VERB	_	Case=Nom|Gender=Fem|Number=Dual|Tense=Pres|VerbForm=Part	4	advcl	_	LemmaId=157933|OccId=4384883|Unsandhied=budhyamāne|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.29
+
+# text = ā tū na indra śaṃsaya goṣv aśveṣu śubhriṣu sahasreṣu tuvīmagha
+# sent_id = 576894
+1	ā	ā	ADV	_	_	5	advmod	_	LemmaId=213041|OccId=4384908|Unsandhied=ā|SyntaxAnnotation=silver|Ref=1.29
+2	tū	tu	CCONJ	_	_	5	discourse	_	LemmaId=82701|OccId=4384884|Unsandhied=tū|SyntaxAnnotation=silver|Ref=1.29
+3	na	mad	PRON	_	Case=Dat|Number=Plur	5	iobj	_	LemmaId=37879|OccId=4384823|Unsandhied=naḥ|SyntaxAnnotation=silver|Ref=1.29
+4	indra	indra	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	LemmaId=63463|OccId=4384824|Unsandhied=indra|SyntaxAnnotation=silver|Ref=1.29
+5	śaṃsaya	śaṃsay	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	0	root	_	LemmaId=159971|OccId=4384885|Unsandhied=śaṃsaya|SyntaxAnnotation=silver|Ref=1.29
+6	goṣv	go	NOUN	_	Case=Loc|Number=Plur	5	obl	_	LemmaId=166386|OccId=4384825|Unsandhied=goṣu|SyntaxAnnotation=silver|Ref=1.29
+7	aśveṣu	aśva	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	6	conj	_	LemmaId=60200|OccId=4384826|Unsandhied=aśveṣu|SyntaxAnnotation=silver|Ref=1.29
+8	śubhriṣu	śubhri	ADJ	_	Case=Loc|Gender=Masc|Number=Plur	6	conj	_	LemmaId=127133|OccId=4384827|Unsandhied=śubhriṣu|SyntaxAnnotation=silver|Ref=1.29
+9	sahasreṣu	sahasra	NUM	_	Case=Loc|Gender=Neut|Number=Plur	6	conj	_	LemmaId=111378|OccId=4384828|Unsandhied=sahasreṣu|SyntaxAnnotation=silver|Ref=1.29
+10	tuvīmagha	tuvīmagha	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	LemmaId=219309|OccId=4384886|Unsandhied=tuvīmagha|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.29
+
+# text = sasantu tyāḥ arātayaḥ sasantu tyāḥ arātayaḥ bodhantu śūra rātayaḥ
+# sent_id = 576895
+1	sasantu	sas	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Plur	0	root	_	LemmaId=219311|OccId=4384887|Unsandhied=sasantu|WordSem=84560|SyntaxAnnotation=silver|Ref=1.29
+2	tyā	tya	PRON	_	Case=Nom|Gender=Fem|Number=Plur	3	det	_	LemmaId=218695|OccId=4384829|Unsandhied=tyāḥ|SyntaxAnnotation=silver|Ref=1.29
+3	arātayo	arāti	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	LemmaId=32648|OccId=4384830|Unsandhied=arātayaḥ|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.29
+4	bodhantu	budh	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Plur	1	enj	_	LemmaId=157933|OccId=4384831|Unsandhied=bodhantu|SyntaxAnnotation=silver|Ref=1.29
+5	śūra	śūra	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	LemmaId=127205|OccId=4384832|Unsandhied=śūra|SyntaxAnnotation=silver|Ref=1.29
+6	rātayaḥ	rāti	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	LemmaId=69929|OccId=4384833|Unsandhied=rātayaḥ|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.29
+
+# text = ā tū na indra śaṃsaya goṣv aśveṣu śubhriṣu sahasreṣu tuvīmagha
+# sent_id = 576896
+1	ā	ā	ADV	_	_	5	advmod	_	LemmaId=213041|OccId=4384909|Unsandhied=ā|SyntaxAnnotation=silver|Ref=1.29
+2	tū	tu	CCONJ	_	_	5	discourse	_	LemmaId=82701|OccId=4384888|Unsandhied=tū|SyntaxAnnotation=silver|Ref=1.29
+3	na	mad	PRON	_	Case=Dat|Number=Plur	5	iobj	_	LemmaId=37879|OccId=4384834|Unsandhied=naḥ|SyntaxAnnotation=silver|Ref=1.29
+4	indra	indra	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	LemmaId=63463|OccId=4384835|Unsandhied=indra|SyntaxAnnotation=silver|Ref=1.29
+5	śaṃsaya	śaṃsay	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	0	root	_	LemmaId=159971|OccId=4384889|Unsandhied=śaṃsaya|SyntaxAnnotation=silver|Ref=1.29
+6	goṣv	go	NOUN	_	Case=Loc|Number=Plur	5	obl	_	LemmaId=166386|OccId=4384836|Unsandhied=goṣu|SyntaxAnnotation=silver|Ref=1.29
+7	aśveṣu	aśva	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	6	conj	_	LemmaId=60200|OccId=4384837|Unsandhied=aśveṣu|SyntaxAnnotation=silver|Ref=1.29
+8	śubhriṣu	śubhri	ADJ	_	Case=Loc|Gender=Masc|Number=Plur	6	conj	_	LemmaId=127133|OccId=4384838|Unsandhied=śubhriṣu|SyntaxAnnotation=silver|Ref=1.29
+9	sahasreṣu	sahasra	NUM	_	Case=Loc|Gender=Neut|Number=Plur	6	conj	_	LemmaId=111378|OccId=4384839|Unsandhied=sahasreṣu|SyntaxAnnotation=silver|Ref=1.29
+10	tuvīmagha	tuvīmagha	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	LemmaId=219309|OccId=4384890|Unsandhied=tuvīmagha|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.29
+
+# text = sam indra gardabham mṛṇa nuvantam pāpayāmuyā
+# sent_id = 576897
+1	sam	sam	ADV	_	_	4	advmod	_	LemmaId=171323|OccId=4384840|Unsandhied=sam|SyntaxAnnotation=silver|Ref=1.29
+2	indra	indra	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	LemmaId=63463|OccId=4384841|Unsandhied=indra|SyntaxAnnotation=silver|Ref=1.29
+3	gardabham	gardabha	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	LemmaId=130148|OccId=4384842|Unsandhied=gardabham|SyntaxAnnotation=silver|Ref=1.29
+4	mṛṇa	mṛṇ	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	0	root	_	LemmaId=219312|OccId=4384891|Unsandhied=mṛṇa|SyntaxAnnotation=silver|Ref=1.29
+5	nuvantam	nū	VERB	_	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	3	acl	_	LemmaId=157260|OccId=4384843|Unsandhied=nuvantam|SyntaxAnnotation=silver|Ref=1.29
+6-7	pāpayāmuyā	_	_	_	_	_	_	_	_
+6	_	pāpa	ADJ	_	Case=Ins|Gender=Fem|Number=Sing	4	obl	_	LemmaId=93768|OccId=4384844|Unsandhied=pāpayā|SyntaxAnnotation=silver|Ref=1.29
+7	_	adas	PRON	_	Case=Ins|Gender=Fem|Number=Sing	6	conj	_	LemmaId=163742|OccId=4384845|Unsandhied=amuyā|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.29
+
+# text = ā tū na indra śaṃsaya goṣv aśveṣu śubhriṣu sahasreṣu tuvīmagha
+# sent_id = 576898
+1	ā	ā	ADV	_	_	5	advmod	_	LemmaId=213041|OccId=4384910|Unsandhied=ā|SyntaxAnnotation=silver|Ref=1.29
+2	tū	tu	CCONJ	_	_	5	discourse	_	LemmaId=82701|OccId=4384892|Unsandhied=tū|SyntaxAnnotation=silver|Ref=1.29
+3	na	mad	PRON	_	Case=Dat|Number=Plur	5	iobj	_	LemmaId=37879|OccId=4384846|Unsandhied=naḥ|SyntaxAnnotation=silver|Ref=1.29
+4	indra	indra	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	LemmaId=63463|OccId=4384847|Unsandhied=indra|SyntaxAnnotation=silver|Ref=1.29
+5	śaṃsaya	śaṃsay	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	0	root	_	LemmaId=159971|OccId=4384893|Unsandhied=śaṃsaya|SyntaxAnnotation=silver|Ref=1.29
+6	goṣv	go	NOUN	_	Case=Loc|Number=Plur	5	obl	_	LemmaId=166386|OccId=4384848|Unsandhied=goṣu|SyntaxAnnotation=silver|Ref=1.29
+7	aśveṣu	aśva	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	6	conj	_	LemmaId=60200|OccId=4384849|Unsandhied=aśveṣu|SyntaxAnnotation=silver|Ref=1.29
+8	śubhriṣu	śubhri	ADJ	_	Case=Loc|Gender=Masc|Number=Plur	6	conj	_	LemmaId=127133|OccId=4384850|Unsandhied=śubhriṣu|SyntaxAnnotation=silver|Ref=1.29
+9	sahasreṣu	sahasra	NUM	_	Case=Loc|Gender=Neut|Number=Plur	6	conj	_	LemmaId=111378|OccId=4384851|Unsandhied=sahasreṣu|SyntaxAnnotation=silver|Ref=1.29
+10	tuvīmagha	tuvīmagha	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	LemmaId=219309|OccId=4384894|Unsandhied=tuvīmagha|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.29
+
+# text = patāti kuṇḍṛṇācyā dūraṃ vāto vanād adhi
+# sent_id = 576899
+1	patāti	pat	VERB	_	Tense=Pres|Mood=Sub|Person=3|Number=Sing	0	root	_	LemmaId=157261|OccId=4384852|Unsandhied=patāti|SyntaxAnnotation=silver|Ref=1.29
+2	kuṇḍṛṇācyā	kuṇḍṛṇācī	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	1	obl	_	LemmaId=24341|OccId=4384853|Unsandhied=kuṇḍṛṇācyā|SyntaxAnnotation=silver|Ref=1.29
+3	dūraṃ	dūram	ADV	_	_	1	advmod	_	LemmaId=209741|OccId=4384854|Unsandhied=dūram|SyntaxAnnotation=silver|Ref=1.29
+4	vāto	vāta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LemmaId=75767|OccId=4384855|Unsandhied=vātaḥ|SyntaxAnnotation=silver|Ref=1.29
+5	vanād	vana	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	1	obl	_	LemmaId=68470|OccId=4384856|Unsandhied=vanāt|WordSem=56963|SyntaxAnnotation=silver|Ref=1.29
+6	adhi	adhi	ADV	_	_	5	case	_	LemmaId=170078|OccId=4384857|Unsandhied=adhi|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.29
+
+# text = ā tū na indra śaṃsaya goṣv aśveṣu śubhriṣu sahasreṣu tuvīmagha
+# sent_id = 576900
+1	ā	ā	ADV	_	_	5	advmod	_	LemmaId=213041|OccId=4384911|Unsandhied=ā|SyntaxAnnotation=silver|Ref=1.29
+2	tū	tu	CCONJ	_	_	5	discourse	_	LemmaId=82701|OccId=4384895|Unsandhied=tū|SyntaxAnnotation=silver|Ref=1.29
+3	na	mad	PRON	_	Case=Dat|Number=Plur	5	iobj	_	LemmaId=37879|OccId=4384858|Unsandhied=naḥ|SyntaxAnnotation=silver|Ref=1.29
+4	indra	indra	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	LemmaId=63463|OccId=4384859|Unsandhied=indra|SyntaxAnnotation=silver|Ref=1.29
+5	śaṃsaya	śaṃsay	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	0	root	_	LemmaId=159971|OccId=4384896|Unsandhied=śaṃsaya|SyntaxAnnotation=silver|Ref=1.29
+6	goṣv	go	NOUN	_	Case=Loc|Number=Plur	5	obl	_	LemmaId=166386|OccId=4384860|Unsandhied=goṣu|SyntaxAnnotation=silver|Ref=1.29
+7	aśveṣu	aśva	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	6	conj	_	LemmaId=60200|OccId=4384861|Unsandhied=aśveṣu|SyntaxAnnotation=silver|Ref=1.29
+8	śubhriṣu	śubhri	ADJ	_	Case=Loc|Gender=Masc|Number=Plur	6	conj	_	LemmaId=127133|OccId=4384862|Unsandhied=śubhriṣu|WordSem=67020|SyntaxAnnotation=silver|Ref=1.29
+9	sahasreṣu	sahasra	NUM	_	Case=Loc|Gender=Neut|Number=Plur	6	conj	_	LemmaId=111378|OccId=4384863|Unsandhied=sahasreṣu|SyntaxAnnotation=silver|Ref=1.29
+10	tuvīmagha	tuvīmagha	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	LemmaId=219309|OccId=4384897|Unsandhied=tuvīmagha|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.29
+
+# text = sarvam parikrośam jahi sarvam parikrośam jahi jambhayā kṛkadāśvam
+# sent_id = 576901
+1	sarvam	sarva	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	2	det	_	LemmaId=104444|OccId=4384864|Unsandhied=sarvam|WordSem=79414|SyntaxAnnotation=silver|Ref=1.29
+2	parikrośaṃ	parikrośa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	LemmaId=18848|OccId=4384865|Unsandhied=parikrośam|SyntaxAnnotation=silver|Ref=1.29
+3	jahi	han	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	0	root	_	LemmaId=157282|OccId=4669880|Unsandhied=jahi|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.29
+4	jambhayā	jambhay	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	3	enj	_	LemmaId=160381|OccId=4384898|Unsandhied=jambhayā|SyntaxAnnotation=silver|Ref=1.29
+5	kṛkadāśvam	kṛkadāśū	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	LemmaId=219313|OccId=4384899|Unsandhied=kṛkadāśvam|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.29
+
+# text = ā tū na indra śaṃsaya goṣv aśveṣu śubhriṣu sahasreṣu tuvīmagha
+# sent_id = 576902
+1	ā	ā	ADV	_	_	5	advmod	_	LemmaId=213041|OccId=4384912|Unsandhied=ā|SyntaxAnnotation=silver|Ref=1.29
+2	tū	tu	CCONJ	_	_	5	discourse	_	LemmaId=82701|OccId=4384900|Unsandhied=tū|SyntaxAnnotation=silver|Ref=1.29
+3	na	mad	PRON	_	Case=Dat|Number=Plur	5	iobj	_	LemmaId=37879|OccId=4384867|Unsandhied=naḥ|SyntaxAnnotation=silver|Ref=1.29
+4	indra	indra	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	LemmaId=63463|OccId=4384868|Unsandhied=indra|SyntaxAnnotation=silver|Ref=1.29
+5	śaṃsaya	śaṃsay	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	0	root	_	LemmaId=159971|OccId=4384901|Unsandhied=śaṃsaya|SyntaxAnnotation=silver|Ref=1.29
+6	goṣv	go	NOUN	_	Case=Loc|Number=Plur	5	obl	_	LemmaId=166386|OccId=4384869|Unsandhied=goṣu|SyntaxAnnotation=silver|Ref=1.29
+7	aśveṣu	aśva	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	6	conj	_	LemmaId=60200|OccId=4384870|Unsandhied=aśveṣu|SyntaxAnnotation=silver|Ref=1.29
+8	śubhriṣu	śubhri	ADJ	_	Case=Loc|Gender=Masc|Number=Plur	6	conj	_	LemmaId=127133|OccId=4384871|Unsandhied=śubhriṣu|SyntaxAnnotation=silver|Ref=1.29
+9	sahasreṣu	sahasra	NUM	_	Case=Loc|Gender=Neut|Number=Plur	6	conj	_	LemmaId=111378|OccId=4384872|Unsandhied=sahasreṣu|SyntaxAnnotation=silver|Ref=1.29
+10	tuvīmagha	tuvīmagha	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	LemmaId=219309|OccId=4384902|Unsandhied=tuvīmagha|Punctuation=fullStop|SyntaxAnnotation=silver|Ref=1.29
+
