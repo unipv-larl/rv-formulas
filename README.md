@@ -11,7 +11,7 @@ This is the repository for the paper [_Combining WordNets with Treebanks to stud
 
 ## Content of this repository
 
-- [rv_conllu](rv_conllu): a directory containing a conllu file for each RgVeda hymn, automatically parsed
+- [rv_conllu](rv_conllu): a directory containing a conllu file for each RgVeda hymn, automatically parsed by Oliver Hellwig's parser
 - [synsets.yaml](synsets.yaml): a YAML file used to add automatically the synsets to the conllu files
 - [add_synsets.py](add_synsets.py): the script used to add the synsets to the treebank
 - [rv_synsets](rv_synsets): the directory where the conllu files with the synsets will be stored
