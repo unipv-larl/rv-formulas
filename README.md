@@ -47,7 +47,7 @@ cd path/to/rv-formulas
 Then, run the python script executing this command:
 
 ```sh
-python add_synsets.py
+python3 add_synsets.py
 ```
 
 This will produce a conllu file for each file in the rv_conllu directory. These files will be annotated with the synsets listed in the YAML file and they will be stored in the rv_synsets folder.
@@ -58,9 +58,18 @@ Then to concatenate the files into one conllu file, run this command:
 cat rv_synsets/*.conllu > rv.conllu
 ```
 
+#### List of synsets added to the treebank
+
+| meaning | synset | lemmas |
+| ------- | ------ | ------ |
+| ask | v#00608227 | yāc, pracch |
+| say | v#00652168 | vad, ah |
+| call | v#00501506 | hvā, vac, brū |
+| deity | n#06861622 | deva, indra, agni, varuṇa, aśvin, vāyu, marut, mitra, savitṛ, sūrya, uṣas | 
+
 ### Extracting the potential formulas
 
-To extract the patterns from the treebank, we used UDeasy, a tool for querying conllu files easily.
+To extract the patterns from the treebank, we used [UDeasy](https://unipv-larl.github.io/udeasy/), a tool for querying conllu files easily.
 
 Open the tool and select the file corresponding to the treebank. In the nodes panel, enter these values:
 
