@@ -60,12 +60,12 @@ cat rv_synsets/*.conllu > rv.conllu
 
 #### List of synsets added to the treebank
 
-| meaning | synset | lemmas |
+| code in misc field | description | synset | lemmas |
 | ------- | ------ | ------ |
-| ask | v#00608227 | yāc, pracch |
-| say | v#00652168 | vad, ah |
-| call | v#00501506 | hvā, vac, brū |
-| deity | n#06861622 | deva, indra, agni, varuṇa, aśvin, vāyu, marut, mitra, savitṛ, sūrya, uṣas | 
+| ask | address a question to and expect an answer from | v#00608227 | yāc, pracch |
+| say | use language | v#00652168 | vad, ah |
+| call | utter in a loud voice or announce | v#00501506 | hvā, vac, brū |
+| deity | any supernatural being worshipped as controlling some part of the world or some aspect of life or who is the personification of a force | n#06861622 | deva, indra, agni, varuṇa, aśvin, vāyu, marut, mitra, savitṛ, sūrya, uṣas | 
 
 ### Extracting the potential formulas
 
