@@ -61,7 +61,7 @@ cat rv_synsets/*.conllu > rv.conllu
 #### List of synsets added to the treebank
 
 | code in misc field | description | synset | lemmas |
-| ------- | ------ | ------ |
+| ------------------ | ----------- | ------ | ------ |
 | ask | address a question to and expect an answer from | v#00608227 | yāc, pracch |
 | say | use language | v#00652168 | vad, ah |
 | call | utter in a loud voice or announce | v#00501506 | hvā, vac, brū |
