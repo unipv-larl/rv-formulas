@@ -101,7 +101,7 @@ Then, in the panel that appears after the confirmation, enter these values:
 
 ## References
 
-- Mihailo Antović and Cristóbal Pagán Cánovas (eds.). 2016. Oral Poetics and Cognitive Science. Berlin/Boston, de Gruyter.
+- Mihailo Antović and Cristóbal Pagán Cánovas (eds.). 2016. *Oral Poetics and Cognitive Science*. Berlin/Boston, de Gruyter.
 
 - Erica Biagetti, Chiara Zanchi and William M. Short. 2021. Toward the creation of WordNets for ancient Indo-European languages. In Proceeding of the 11th Global WordNet Conference. University of South Africa (UNISA): Global Wordnet Association, pages 258–266. https://aclanthology.org/2021.gwc-1.30
 
